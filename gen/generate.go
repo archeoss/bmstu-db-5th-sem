@@ -6,6 +6,7 @@ import (
 	"math/rand"
 	"os"
 	"strconv"
+	"strings"
 	"time"
 )
 
@@ -25,10 +26,17 @@ func genSlice(n int) []int {
 }
 
 func maxDate(a, b string) string {
-	for i := 0; i < len(a); i++ {
-		if a[i] > b[i] {
+	date1 := strings.Split(a, "-")
+	date2 := strings.Split(b, "-")
+	for i := 0; i < len(date1); i++ {
+		d1, err1 := strconv.Atoi(date1[i])
+		d2, err2 := strconv.Atoi(date2[i])
+		if err1 != nil || err2 != nil {
+			panic("Error in minDate")
+		}
+		if d1 > d2 {
 			return a
-		} else if a[i] < b[i] {
+		} else if d1 < d2 {
 			return b
 		}
 	}
@@ -37,10 +45,17 @@ func maxDate(a, b string) string {
 }
 
 func minDate(a, b string) string {
-	for i := 0; i < len(a); i++ {
-		if a[i] < b[i] {
+	date1 := strings.Split(a, "-")
+	date2 := strings.Split(b, "-")
+	for i := 0; i < len(date1); i++ {
+		d1, err1 := strconv.Atoi(date1[i])
+		d2, err2 := strconv.Atoi(date2[i])
+		if err1 != nil || err2 != nil {
+			panic("Error in minDate")
+		}
+		if d1 < d2 {
 			return a
-		} else if a[i] > b[i] {
+		} else if d1 > d2 {
 			return b
 		}
 	}
@@ -50,10 +65,14 @@ func minDate(a, b string) string {
 
 func generateDB() {
 	soldiers_list := make([]string, FIELDS)
-	nums := genSlice(FIELDS)
+	nums_Weapon := genSlice(FIELDS)
+	nums_Vehicle := genSlice(FIELDS)
+	nums_Ammo := genSlice(FIELDS)
 
 	rand.Seed(time.Now().UnixNano())
-	rand.Shuffle(len(nums), func(i, j int) { nums[i], nums[j] = nums[j], nums[i] })
+	rand.Shuffle(len(nums_Weapon), func(i, j int) { nums_Weapon[i], nums_Weapon[j] = nums_Weapon[j], nums_Weapon[i] })
+	rand.Shuffle(len(nums_Ammo), func(i, j int) { nums_Ammo[i], nums_Ammo[j] = nums_Ammo[j], nums_Ammo[i] })
+	rand.Shuffle(len(nums_Vehicle), func(i, j int) { nums_Vehicle[i], nums_Vehicle[j] = nums_Vehicle[j], nums_Vehicle[i] })
 
 	soldiersFile, err := os.Open("assets/soldiers.csv")
 	if err != nil {
@@ -66,21 +85,21 @@ func generateDB() {
 	lastName, err := csvReader.Read()
 	rank, err := csvReader.Read()
 	soldiersFile.Close()
-
+	fmt.Println(minDate("2017-12-07", "2017-7-08"))
 	f, err := os.Create("../queries/lab_01/dbdata/soldiers.csv")
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)
 	}
 	csvWriter := csv.NewWriter(f)
-	csvWriter.Write([]string{""})
+	//csvWriter.Write([]string{""})
 	for i := 0; i < FIELDS; i++ {
 		i_firstName := rand.Intn(len(firstName))
 		i_lastName := rand.Intn(len(lastName))
 		i_rank := rand.Intn(len(rank))
 		soldiers_list[i] = lastName[i_lastName]
 		date1, date2 := genDate(), genDate()
-		record := []string{strconv.Itoa(i + 1), firstName[i_firstName], lastName[i_lastName], rank[i_rank], strconv.Itoa(rand.Intn(25) + 20), strconv.Itoa(rand.Intn(1000) + 1000), minDate(date1, date2), maxDate(date1, date2)}
+		record := []string{strconv.Itoa(i + 1), firstName[i_firstName], lastName[i_lastName], rank[i_rank], strconv.Itoa(rand.Intn(25) + 20), strconv.Itoa(rand.Intn(1000) + 1000), minDate(date1, date2), maxDate(date1, date2), strconv.Itoa(nums_Weapon[i]), strconv.Itoa(nums_Ammo[i]), strconv.Itoa(nums_Vehicle[i])}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -112,11 +131,11 @@ func generateDB() {
 		os.Exit(1)
 	}
 	csvWriter = csv.NewWriter(f)
-	csvWriter.Write([]string{""})
+	//csvWriter.Write([]string{""})
 	for i := 0; i < FIELDS; i++ {
 		i_misc := rand.Intn(len(misc))
 		i_ammo := rand.Intn(len(ammo))
-		record := []string{strconv.Itoa(i + 1), ammo[i_ammo], calibers[i_ammo], types[i_ammo], strconv.Itoa(rand.Intn(5) * 30), misc[i_misc], strconv.Itoa(nums[i])}
+		record := []string{strconv.Itoa(i + 1), ammo[i_ammo], calibers[i_ammo], types[i_ammo], strconv.Itoa(rand.Intn(5) * 30), misc[i_misc]}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -139,12 +158,12 @@ func generateDB() {
 		os.Exit(1)
 	}
 	csvWriter = csv.NewWriter(f)
-	csvWriter.Write([]string{""})
+	//csvWriter.Write([]string{""})
 	for i := 0; i < FIELDS; i++ {
 		i_weapon := rand.Intn(len(name))
 		i_misc := rand.Intn(len(misc))
 		date1, date2 := genDate(), genDate()
-		record := []string{strconv.Itoa(i + 1), name[i_weapon], class[i_weapon], caliber[i_weapon], misc[i_misc], minDate(date1, date2), maxDate(date1, date2), strconv.Itoa(nums[i])}
+		record := []string{strconv.Itoa(i + 1), name[i_weapon], class[i_weapon], caliber[i_weapon], misc[i_misc], minDate(date1, date2), maxDate(date1, date2)}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -165,12 +184,12 @@ func generateDB() {
 		os.Exit(1)
 	}
 	csvWriter = csv.NewWriter(f)
-	csvWriter.Write([]string{""})
+	//csvWriter.Write([]string{""})
 
 	for i := 0; i < FIELDS; i++ {
 		i_vehicles := rand.Intn(len(vehicles))
 		i_misc := rand.Intn(len(misc))
-		record := []string{strconv.Itoa(i + 1), vehicles[i_vehicles], misc[i_misc], strconv.Itoa(rand.Intn(50) + 1), strconv.Itoa(rand.Intn(2)), genDate(), strconv.Itoa(nums[i])}
+		record := []string{strconv.Itoa(i + 1), vehicles[i_vehicles], misc[i_misc], strconv.Itoa(rand.Intn(50) + 1), strconv.Itoa(rand.Intn(2)), genDate()}
 
 		csvWriter.Write(record)
 		csvWriter.Flush()

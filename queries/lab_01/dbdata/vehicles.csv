@@ -1,1001 +1,1000 @@
-
-1,M970,On Maintenance,31,1,2001-11-5,539
-2,M113 APC,In Active Zone,11,0,2000-6-28,619
-3,M1A1,Missing,17,0,2003-7-22,849
-4,LAV-25,Non-functional,50,1,2017-8-13,649
-5,M4,On Maintenance,12,1,2005-4-20,569
-6,M113 APC,On Maintenance,3,0,2017-10-25,402
-7,M3A3 Bradley,In Active Zone,19,1,2015-11-1,64
-8,M113 APC,In Active Zone,13,1,2010-10-14,527
-9,M3A3 Bradley,In Active Zone,36,0,2017-3-17,420
-10,M3A3 Bradley,In Active Zone,6,1,2013-1-25,589
-11,LAV-25,In Active Zone,6,0,2011-8-2,83
-12,M1A1,Non-functional,23,1,2001-10-15,317
-13,LAV-25,On Maintenance,33,1,2019-2-7,31
-14,M1A1,On Maintenance,33,1,2001-1-26,324
-15,LAV-25,On Maintenance,48,1,2019-11-13,465
-16,M113 APC,Missing,25,0,2008-7-18,574
-17,M4,On Maintenance,15,0,2008-9-10,824
-18,Humvee,In Stock,33,1,2005-11-12,126
-19,M970,In Active Zone,44,1,2001-10-5,836
-20,M3A3 Bradley,On Maintenance,21,1,2010-11-2,811
-21,M1,In Active Zone,46,1,2012-6-28,431
-22,M4,On Maintenance,7,1,2017-4-15,337
-23,M1A1,In Stock,40,0,2010-4-10,935
-24,M4,In Stock,33,1,2008-5-11,183
-25,M113 APC,Non-functional,15,0,2014-10-9,136
-26,M4,In Stock,21,0,2015-4-5,225
-27,M3A3 Bradley,Non-functional,33,1,2018-8-25,651
-28,Truck,In Stock,40,0,2014-12-6,829
-29,M3A3 Bradley,On Maintenance,26,0,2007-6-17,564
-30,LAV-25,Missing,19,0,2018-4-24,267
-31,LAV-25,In Stock,43,0,2016-6-5,778
-32,Truck,Non-functional,46,0,2002-11-5,715
-33,M4,Non-functional,20,1,2000-3-5,456
-34,M3A3 Bradley,On Maintenance,28,1,2016-1-25,6
-35,M3A3 Bradley,On Maintenance,24,1,2001-5-27,821
-36,M970,On Maintenance,45,0,2019-12-26,660
-37,M4,Non-functional,30,1,2017-6-9,705
-38,Truck,On Maintenance,5,1,2019-2-2,330
-39,M3A3 Bradley,Missing,49,1,2004-9-8,246
-40,M113 APC,On Maintenance,43,1,2016-6-7,532
-41,M3A3 Bradley,Non-functional,3,1,2012-9-28,268
-42,M1,In Stock,35,1,2004-1-26,184
-43,M4,Non-functional,24,1,2010-1-9,708
-44,M1A1,On Maintenance,2,0,2003-4-19,865
-45,M4,Missing,19,0,2001-1-24,775
-46,M113 APC,On Maintenance,19,1,2017-9-24,476
-47,M4,On Maintenance,36,1,2017-6-18,186
-48,M113 APC,In Active Zone,12,1,2015-7-27,398
-49,Humvee,Missing,27,1,2018-5-17,471
-50,M3A3 Bradley,In Active Zone,12,1,2007-5-16,376
-51,M4,In Stock,20,1,2016-11-20,283
-52,LAV-25,In Stock,13,1,2015-1-13,444
-53,M1A1,Missing,15,1,2000-2-3,590
-54,M1A1,On Maintenance,1,1,2018-2-8,582
-55,M970,Missing,28,0,2019-7-23,189
-56,M1A1,On Maintenance,3,0,2014-7-11,881
-57,M1,In Active Zone,45,0,2019-5-2,799
-58,M4,On Maintenance,34,1,2012-10-19,62
-59,Humvee,Missing,7,1,2019-3-7,753
-60,M970,In Active Zone,12,0,2000-2-1,856
-61,Truck,In Stock,8,1,2019-2-18,467
-62,M1,Non-functional,35,0,2013-6-25,477
-63,Truck,Missing,5,1,2005-8-7,936
-64,M4,In Active Zone,28,0,2010-4-7,277
-65,Truck,Non-functional,41,1,2018-12-6,921
-66,M3A3 Bradley,In Stock,43,1,2001-6-4,319
-67,M1,On Maintenance,29,1,2005-5-13,158
-68,M113 APC,Non-functional,38,1,2002-11-24,240
-69,LAV-25,Non-functional,13,0,2015-1-19,552
-70,M4,Missing,49,1,2019-3-11,328
-71,Humvee,Non-functional,42,0,2000-6-16,521
-72,Truck,On Maintenance,48,1,2017-8-14,333
-73,M1A1,Missing,43,1,2009-11-25,91
-74,M3A3 Bradley,On Maintenance,13,0,2008-7-5,152
-75,M1,In Active Zone,24,1,2008-4-11,786
-76,LAV-25,On Maintenance,21,0,2015-5-3,345
-77,M1A1,Missing,50,0,2000-3-6,617
-78,Truck,On Maintenance,19,1,2015-11-16,785
-79,M3A3 Bradley,Non-functional,40,0,2016-4-25,641
-80,M113 APC,Missing,31,0,2007-5-14,761
-81,M4,On Maintenance,23,0,2013-8-1,448
-82,Truck,Non-functional,1,0,2002-5-5,202
-83,LAV-25,In Stock,21,0,2004-2-13,557
-84,M1,In Active Zone,12,1,2012-9-26,110
-85,M4,Non-functional,7,1,2008-3-28,167
-86,M113 APC,Non-functional,11,1,2013-3-24,661
-87,Truck,In Stock,5,1,2002-8-24,496
-88,M3A3 Bradley,Missing,49,0,2011-4-13,162
-89,M3A3 Bradley,Missing,14,0,2015-9-16,735
-90,LAV-25,In Active Zone,46,1,2014-6-26,892
-91,LAV-25,Non-functional,43,1,2011-3-10,520
-92,Humvee,Non-functional,31,0,2003-4-18,247
-93,M113 APC,Missing,21,1,2015-3-4,445
-94,M970,Non-functional,14,0,2007-9-10,644
-95,M113 APC,In Stock,13,0,2004-12-8,248
-96,M113 APC,In Active Zone,42,0,2015-5-16,669
-97,M4,Non-functional,29,1,2008-3-14,78
-98,M970,In Active Zone,49,1,2005-10-14,879
-99,M3A3 Bradley,Missing,13,1,2007-11-7,434
-100,M4,On Maintenance,48,0,2018-1-16,908
-101,M113 APC,On Maintenance,48,1,2011-6-16,353
-102,LAV-25,On Maintenance,34,1,2005-3-20,857
-103,Truck,On Maintenance,28,0,2019-9-12,273
-104,LAV-25,Non-functional,11,1,2004-7-13,818
-105,M970,On Maintenance,49,1,2013-7-27,948
-106,M4,In Active Zone,42,0,2014-12-6,427
-107,Truck,In Stock,19,0,2016-3-28,485
-108,LAV-25,In Active Zone,5,1,2010-3-13,179
-109,M113 APC,On Maintenance,29,1,2002-6-10,168
-110,M3A3 Bradley,In Stock,33,0,2014-6-5,711
-111,M4,In Stock,6,1,2007-4-12,114
-112,Humvee,In Stock,8,0,2009-1-4,312
-113,M1A1,Missing,20,1,2005-5-5,940
-114,M1A1,Missing,43,1,2016-9-3,674
-115,M4,Non-functional,25,1,2004-4-5,452
-116,M970,On Maintenance,27,0,2012-7-11,877
-117,LAV-25,In Stock,49,1,2003-5-23,216
-118,Truck,Missing,26,1,2016-3-20,115
-119,M1,On Maintenance,33,0,2003-10-5,244
-120,Truck,Missing,24,0,2013-3-16,646
-121,LAV-25,On Maintenance,48,0,2007-12-25,906
-122,M1,On Maintenance,23,0,2019-3-11,734
-123,M3A3 Bradley,Missing,44,1,2002-6-17,228
-124,LAV-25,Missing,7,0,2004-5-6,442
-125,LAV-25,In Stock,21,0,2019-11-9,960
-126,M1,On Maintenance,9,0,2001-7-14,213
-127,Truck,In Stock,7,1,2006-5-8,611
-128,Humvee,In Active Zone,27,0,2014-7-14,758
-129,M970,Non-functional,40,0,2011-4-14,375
-130,LAV-25,In Active Zone,3,1,2011-12-11,331
-131,M113 APC,Non-functional,7,0,2018-10-6,568
-132,Humvee,Missing,14,1,2002-8-10,129
-133,LAV-25,In Stock,34,1,2019-2-14,882
-134,Truck,Non-functional,23,1,2005-9-4,391
-135,M113 APC,Missing,40,0,2018-8-24,563
-136,M1,Non-functional,18,1,2005-7-10,787
-137,M1A1,On Maintenance,46,1,2012-1-17,613
-138,LAV-25,In Stock,2,0,2019-8-21,458
-139,M970,Missing,35,1,2002-8-26,707
-140,Humvee,Non-functional,49,1,2010-1-23,555
-141,LAV-25,In Active Zone,35,1,2012-9-11,33
-142,M113 APC,On Maintenance,9,1,2013-11-5,851
-143,M113 APC,Missing,48,0,2014-5-22,662
-144,M113 APC,In Active Zone,40,0,2010-11-4,675
-145,M113 APC,Missing,6,0,2004-12-2,464
-146,LAV-25,In Active Zone,10,0,2018-3-16,40
-147,M1A1,On Maintenance,8,1,2006-1-16,323
-148,M1,In Stock,40,1,2003-2-15,132
-149,M4,In Stock,18,1,2011-7-16,963
-150,M113 APC,In Active Zone,11,1,2018-8-17,763
-151,LAV-25,In Stock,48,0,2007-10-15,336
-152,M1,In Active Zone,20,1,2002-1-15,352
-153,M1A1,Non-functional,47,1,2011-7-14,200
-154,M1,In Stock,33,0,2016-5-14,90
-155,M4,On Maintenance,2,0,2012-1-13,769
-156,M970,Non-functional,44,1,2002-10-10,653
-157,Truck,Missing,26,1,2014-1-7,828
-158,M970,Missing,46,0,2011-3-15,340
-159,Humvee,In Active Zone,23,1,2006-7-21,356
-160,Humvee,Non-functional,19,1,2004-7-24,368
-161,M3A3 Bradley,On Maintenance,44,0,2007-12-21,146
-162,M970,In Active Zone,42,1,2016-5-7,7
-163,M3A3 Bradley,In Active Zone,22,1,2019-5-25,455
-164,M1,Missing,1,1,2017-7-21,947
-165,M1,In Active Zone,25,0,2008-2-13,593
-166,Humvee,On Maintenance,24,1,2014-1-24,306
-167,M1,Missing,26,1,2015-3-4,986
-168,M113 APC,On Maintenance,15,1,2004-4-24,667
-169,M113 APC,Missing,16,0,2015-3-27,510
-170,Truck,Non-functional,21,1,2019-4-17,688
-171,M113 APC,In Active Zone,37,0,2015-7-18,702
-172,M1A1,In Stock,22,1,2015-7-24,389
-173,LAV-25,Missing,27,1,2001-4-27,397
-174,Humvee,In Active Zone,32,1,2013-2-14,591
-175,M4,Missing,42,1,2001-8-24,558
-176,M1A1,Missing,23,1,2000-10-4,97
-177,M4,In Stock,17,1,2016-1-7,17
-178,M113 APC,On Maintenance,29,1,2012-2-28,538
-179,M1,Missing,32,1,2003-6-28,990
-180,LAV-25,In Active Zone,12,0,2000-12-14,893
-181,M113 APC,In Active Zone,47,0,2011-3-20,165
-182,M113 APC,In Stock,35,1,2005-7-25,764
-183,LAV-25,In Stock,16,1,2006-12-5,980
-184,M1A1,Missing,47,0,2014-6-13,999
-185,Truck,In Active Zone,47,1,2011-10-17,760
-186,M4,In Stock,46,0,2005-10-6,724
-187,Humvee,Missing,49,1,2019-7-28,399
-188,M113 APC,Non-functional,50,0,2002-4-13,830
-189,M4,On Maintenance,16,1,2001-11-17,541
-190,M1A1,On Maintenance,49,1,2011-10-25,374
-191,M4,In Active Zone,26,1,2010-9-11,534
-192,Truck,Non-functional,30,0,2002-3-18,642
-193,Humvee,Non-functional,39,1,2002-5-11,188
-194,Truck,In Active Zone,40,0,2007-6-13,997
-195,M970,In Active Zone,7,1,2006-3-23,173
-196,M1,In Stock,40,1,2008-8-2,284
-197,M970,On Maintenance,40,0,2016-8-18,369
-198,M3A3 Bradley,In Active Zone,31,1,2018-2-21,58
-199,M3A3 Bradley,In Stock,9,1,2019-11-18,612
-200,M1A1,Missing,49,1,2008-2-23,39
-201,M1A1,In Stock,49,1,2007-8-20,719
-202,Truck,In Stock,37,0,2011-9-28,659
-203,M3A3 Bradley,Non-functional,36,1,2007-1-4,259
-204,Humvee,On Maintenance,20,1,2007-6-22,195
-205,M3A3 Bradley,In Active Zone,32,0,2010-2-19,204
-206,M1A1,In Stock,42,1,2015-3-4,470
-207,LAV-25,On Maintenance,29,0,2019-5-11,342
-208,M113 APC,Missing,15,0,2004-4-21,67
-209,Truck,Missing,33,1,2014-10-8,321
-210,M970,Missing,31,1,2015-7-4,566
-211,M970,Missing,36,0,2000-10-20,94
-212,M113 APC,In Stock,36,1,2017-11-23,978
-213,M4,Non-functional,26,0,2011-1-8,341
-214,M3A3 Bradley,On Maintenance,10,1,2005-7-19,280
-215,M970,In Active Zone,28,0,2002-7-10,384
-216,M970,In Active Zone,30,1,2006-10-4,509
-217,LAV-25,Non-functional,3,1,2018-10-13,404
-218,M1,On Maintenance,23,0,2009-4-6,463
-219,LAV-25,In Stock,26,1,2017-3-27,8
-220,Humvee,In Stock,37,0,2001-10-8,873
-221,Truck,Missing,10,0,2017-6-24,898
-222,M3A3 Bradley,Non-functional,16,0,2009-12-9,909
-223,M113 APC,In Active Zone,2,1,2004-10-15,66
-224,M1,Missing,32,1,2003-12-19,344
-225,M113 APC,In Active Zone,35,0,2009-9-23,487
-226,M113 APC,In Active Zone,1,0,2016-10-28,880
-227,M970,On Maintenance,2,1,2001-4-28,128
-228,LAV-25,Missing,41,0,2012-6-5,982
-229,M970,Missing,5,1,2011-2-27,914
-230,M3A3 Bradley,Non-functional,43,0,2007-1-5,466
-231,LAV-25,Non-functional,22,0,2001-8-2,958
-232,LAV-25,Non-functional,44,1,2000-11-5,791
-233,Humvee,Non-functional,50,1,2007-5-11,106
-234,M4,Non-functional,13,0,2006-1-20,783
-235,M113 APC,Non-functional,16,0,2019-4-4,939
-236,M970,Non-functional,3,0,2008-7-8,249
-237,M113 APC,On Maintenance,1,1,2010-11-25,571
-238,M1,In Active Zone,48,0,2006-6-2,51
-239,M1A1,Non-functional,31,1,2014-6-16,883
-240,M113 APC,On Maintenance,43,1,2012-9-22,627
-241,LAV-25,In Stock,46,1,2005-2-12,457
-242,M1A1,On Maintenance,1,1,2011-7-7,166
-243,M3A3 Bradley,Non-functional,12,0,2009-11-19,70
-244,LAV-25,Non-functional,27,1,2000-11-25,292
-245,M113 APC,In Active Zone,44,1,2018-12-19,526
-246,M4,In Active Zone,28,1,2011-9-9,348
-247,Humvee,Missing,41,0,2016-12-27,616
-248,M1A1,In Stock,31,1,2002-10-20,252
-249,Truck,In Active Zone,18,0,2018-12-10,370
-250,Humvee,In Stock,18,1,2001-9-17,827
-251,M113 APC,Non-functional,45,0,2010-4-27,13
-252,M970,In Active Zone,35,0,2016-5-12,251
-253,Humvee,Non-functional,17,1,2009-5-27,245
-254,M1,Missing,15,1,2005-12-20,562
-255,Truck,Non-functional,14,0,2006-12-20,820
-256,Humvee,On Maintenance,31,1,2001-1-27,289
-257,M4,On Maintenance,22,1,2014-12-6,774
-258,M4,On Maintenance,21,1,2019-1-24,378
-259,M4,Missing,14,0,2012-10-7,217
-260,LAV-25,Non-functional,2,1,2008-10-9,781
-261,M4,Missing,20,1,2015-8-3,242
-262,M3A3 Bradley,On Maintenance,26,0,2019-11-26,772
-263,M970,In Stock,24,1,2019-6-9,727
-264,M4,In Active Zone,34,1,2016-4-28,729
-265,M113 APC,In Stock,3,0,2003-7-14,847
-266,M3A3 Bradley,Non-functional,16,0,2001-8-6,354
-267,Humvee,In Active Zone,34,0,2017-3-16,738
-268,Humvee,Missing,16,0,2018-2-16,814
-269,M1A1,In Stock,29,0,2000-11-16,540
-270,Humvee,In Active Zone,9,0,2006-12-14,380
-271,M1A1,On Maintenance,30,0,2009-8-20,140
-272,M1,In Stock,24,0,2019-6-1,95
-273,LAV-25,On Maintenance,8,0,2003-1-5,885
-274,M1A1,In Stock,27,1,2014-1-26,768
-275,M1,Missing,48,0,2004-4-8,429
-276,LAV-25,In Active Zone,4,1,2014-9-20,59
-277,LAV-25,On Maintenance,19,1,2006-11-6,224
-278,M113 APC,Missing,14,1,2005-3-24,30
-279,Humvee,In Active Zone,35,1,2006-9-26,905
-280,LAV-25,On Maintenance,48,0,2007-7-16,334
-281,M4,On Maintenance,39,1,2011-10-8,622
-282,Humvee,In Active Zone,21,0,2015-3-7,634
-283,M3A3 Bradley,In Stock,46,1,2014-6-19,668
-284,M1,In Active Zone,50,0,2000-6-1,844
-285,Truck,In Active Zone,16,0,2007-6-20,954
-286,M113 APC,In Stock,43,1,2005-1-25,950
-287,M1A1,In Active Zone,19,0,2000-11-11,400
-288,M4,In Active Zone,26,0,2017-11-3,363
-289,M3A3 Bradley,Missing,39,1,2004-7-17,599
-290,M1A1,In Stock,12,0,2014-3-14,965
-291,LAV-25,Missing,15,0,2005-2-20,800
-292,M970,In Active Zone,49,1,2015-7-9,478
-293,M970,On Maintenance,41,1,2005-12-9,968
-294,M113 APC,Non-functional,26,1,2012-6-28,385
-295,M1A1,On Maintenance,16,1,2014-1-2,120
-296,M3A3 Bradley,Non-functional,36,0,2005-5-3,322
-297,M1A1,In Stock,29,0,2018-4-5,497
-298,M4,In Active Zone,26,0,2019-7-27,608
-299,M113 APC,Non-functional,42,0,2003-10-25,577
-300,M113 APC,In Active Zone,33,1,2015-9-25,221
-301,Truck,On Maintenance,14,1,2010-11-17,605
-302,Humvee,In Stock,6,0,2000-12-16,519
-303,Truck,On Maintenance,50,0,2016-10-20,310
-304,M113 APC,In Stock,2,0,2000-10-19,68
-305,M4,In Active Zone,17,0,2006-5-24,117
-306,Humvee,In Stock,13,1,2000-7-6,949
-307,M1,On Maintenance,29,0,2002-7-16,624
-308,Humvee,In Active Zone,36,0,2000-10-5,207
-309,M1,On Maintenance,48,0,2006-2-26,441
-310,Truck,Missing,4,1,2007-2-25,595
-311,M1,Missing,38,0,2017-12-26,475
-312,M970,In Active Zone,20,1,2018-9-24,122
-313,M1A1,Missing,24,0,2001-4-8,955
-314,M1,On Maintenance,39,0,2000-5-24,421
-315,M1,In Stock,47,1,2011-9-13,866
-316,M4,In Active Zone,23,1,2012-7-9,243
-317,Humvee,Non-functional,34,0,2014-11-21,211
-318,LAV-25,On Maintenance,19,1,2011-6-23,996
-319,M970,On Maintenance,30,1,2007-4-3,643
-320,M3A3 Bradley,In Active Zone,18,1,2006-2-16,991
-321,M1,Missing,9,0,2002-8-24,481
-322,M113 APC,Non-functional,37,1,2013-1-11,141
-323,M4,Non-functional,20,1,2000-3-2,754
-324,M4,On Maintenance,48,1,2000-6-15,872
-325,Truck,In Stock,39,0,2015-1-18,546
-326,M113 APC,In Active Zone,46,0,2012-1-11,809
-327,Truck,Missing,40,0,2018-10-13,549
-328,Humvee,Missing,46,0,2000-2-20,407
-329,Truck,Missing,46,1,2009-12-24,970
-330,M4,In Active Zone,44,0,2016-4-25,327
-331,Truck,Missing,12,1,2003-2-17,512
-332,M1,Missing,22,1,2003-9-11,144
-333,M113 APC,Non-functional,20,1,2008-9-24,941
-334,M970,Non-functional,34,0,2004-2-23,23
-335,M4,In Active Zone,18,0,2013-8-22,46
-336,M1,Missing,49,1,2011-9-16,751
-337,M970,In Stock,29,1,2004-12-22,530
-338,Humvee,Missing,43,1,2001-10-13,987
-339,Truck,Missing,41,1,2011-4-23,346
-340,Truck,In Stock,23,1,2000-1-18,623
-341,M4,Non-functional,32,1,2012-2-26,303
-342,M1A1,In Active Zone,48,0,2008-2-17,241
-343,M4,Non-functional,6,1,2007-9-27,215
-344,M1A1,In Stock,44,1,2019-1-3,874
-345,M3A3 Bradley,In Stock,25,1,2003-6-10,286
-346,M1A1,Non-functional,1,1,2012-9-28,419
-347,M3A3 Bradley,On Maintenance,26,1,2009-1-19,394
-348,LAV-25,In Stock,26,1,2016-9-13,610
-349,Truck,Missing,4,0,2001-2-1,897
-350,M1A1,In Stock,29,0,2014-7-14,722
-351,M4,Missing,26,0,2005-3-15,491
-352,M1,On Maintenance,48,0,2019-9-4,808
-353,M1,Missing,50,1,2005-1-6,355
-354,LAV-25,Missing,25,0,2006-3-4,42
-355,M1A1,In Active Zone,14,1,2000-11-18,296
-356,M4,Missing,26,0,2001-2-13,720
-357,M1,In Stock,35,1,2013-7-10,262
-358,M4,In Active Zone,9,0,2011-5-14,690
-359,Humvee,Non-functional,17,1,2019-11-18,214
-360,M1A1,In Stock,35,1,2003-5-11,884
-361,LAV-25,In Stock,34,1,2002-7-17,615
-362,M1A1,Non-functional,15,1,2003-11-25,523
-363,Truck,In Stock,25,1,2011-9-25,806
-364,LAV-25,In Active Zone,36,1,2001-12-10,109
-365,M1A1,In Stock,31,0,2011-11-4,232
-366,Humvee,Missing,46,1,2004-8-14,372
-367,Humvee,Missing,46,1,2004-7-22,16
-368,M4,Missing,19,0,2013-10-4,685
-369,M3A3 Bradley,In Active Zone,21,1,2014-10-2,279
-370,M4,Non-functional,6,1,2014-8-10,197
-371,Humvee,Missing,42,0,2003-2-11,545
-372,M1A1,In Stock,10,0,2003-1-2,795
-373,M1A1,Missing,32,0,2000-9-24,381
-374,M1A1,Missing,41,0,2007-9-18,638
-375,M3A3 Bradley,On Maintenance,37,1,2009-7-19,350
-376,M4,On Maintenance,4,1,2009-7-27,410
-377,M1A1,On Maintenance,49,0,2006-1-22,834
-378,M1A1,In Active Zone,47,1,2002-4-16,752
-379,M113 APC,In Active Zone,40,1,2017-4-6,20
-380,Humvee,Missing,17,1,2008-7-10,493
-381,M113 APC,In Active Zone,1,0,2015-6-3,27
-382,M113 APC,In Active Zone,20,1,2016-1-9,210
-383,M1A1,On Maintenance,9,1,2018-2-27,19
-384,M970,In Stock,43,0,2000-4-16,620
-385,LAV-25,In Stock,11,0,2003-5-14,276
-386,Truck,In Active Zone,29,0,2009-5-14,919
-387,M1A1,In Stock,32,0,2001-7-15,670
-388,M970,In Stock,26,0,2017-4-8,863
-389,M970,Non-functional,9,1,2017-8-25,472
-390,Humvee,On Maintenance,44,0,2017-5-10,73
-391,LAV-25,In Active Zone,49,0,2009-10-2,255
-392,Truck,Non-functional,39,0,2013-10-13,744
-393,M113 APC,In Active Zone,35,0,2000-4-18,74
-394,M3A3 Bradley,Non-functional,36,1,2008-9-4,362
-395,M3A3 Bradley,On Maintenance,26,0,2017-3-28,484
-396,M4,Non-functional,24,0,2010-6-3,192
-397,M970,In Stock,9,0,2012-4-12,518
-398,LAV-25,In Stock,16,0,2000-5-7,790
-399,M3A3 Bradley,On Maintenance,13,1,2007-9-18,425
-400,M4,Non-functional,6,0,2006-11-23,446
-401,LAV-25,On Maintenance,38,1,2003-9-7,912
-402,Humvee,Non-functional,16,1,2015-4-22,985
-403,Humvee,On Maintenance,29,1,2013-6-15,983
-404,M970,Missing,7,1,2011-11-7,227
-405,M970,On Maintenance,38,0,2006-5-3,803
-406,LAV-25,Missing,13,0,2014-3-25,44
-407,Truck,Non-functional,38,1,2004-2-22,29
-408,M4,On Maintenance,44,0,2014-4-15,143
-409,M113 APC,Non-functional,30,1,2017-2-4,961
-410,M1A1,In Stock,22,0,2009-1-1,647
-411,M4,Non-functional,22,1,2014-12-11,835
-412,M4,Missing,27,0,2010-5-7,219
-413,M113 APC,Non-functional,33,1,2013-6-13,648
-414,M1,Non-functional,46,0,2018-2-1,37
-415,Truck,Missing,46,1,2000-8-14,329
-416,M1,In Active Zone,9,0,2006-6-15,253
-417,M1,In Active Zone,35,0,2014-9-8,272
-418,M1,On Maintenance,4,0,2017-9-27,269
-419,M1,On Maintenance,22,1,2015-1-12,371
-420,M4,Non-functional,29,0,2002-3-3,614
-421,M3A3 Bradley,Missing,34,0,2019-12-1,69
-422,M970,Missing,15,0,2015-12-6,304
-423,M1,On Maintenance,16,1,2012-7-13,82
-424,M1,In Active Zone,15,1,2005-8-12,461
-425,M1,In Stock,33,1,2017-4-3,745
-426,M1A1,Non-functional,15,1,2011-12-12,792
-427,Truck,On Maintenance,49,0,2015-9-8,815
-428,LAV-25,Non-functional,33,1,2006-7-27,47
-429,M970,Missing,22,1,2017-3-22,630
-430,M1,In Stock,28,0,2012-2-26,1
-431,Humvee,Missing,39,0,2003-9-9,714
-432,M113 APC,In Stock,1,1,2017-11-20,825
-433,M113 APC,In Stock,28,0,2015-6-25,414
-434,Humvee,Non-functional,5,0,2016-3-11,392
-435,Humvee,On Maintenance,10,1,2014-4-5,728
-436,Humvee,Missing,50,1,2004-5-24,149
-437,M3A3 Bradley,Missing,20,0,2017-3-22,550
-438,M4,Non-functional,39,0,2017-3-9,848
-439,LAV-25,In Stock,15,1,2002-12-1,945
-440,M113 APC,Non-functional,3,0,2008-4-22,609
-441,Humvee,Missing,5,0,2018-2-18,732
-442,M4,In Active Zone,41,1,2014-8-2,3
-443,M113 APC,In Stock,50,1,2000-6-5,524
-444,M4,Missing,1,1,2016-1-4,920
-445,M1,On Maintenance,37,1,2004-2-20,694
-446,M113 APC,Missing,37,0,2006-9-25,693
-447,Humvee,On Maintenance,40,0,2012-4-24,34
-448,M113 APC,In Active Zone,25,0,2010-1-11,981
-449,Humvee,Missing,18,1,2018-12-18,377
-450,Truck,In Stock,4,0,2002-3-28,15
-451,Humvee,In Stock,49,0,2015-12-14,556
-452,M3A3 Bradley,Missing,7,1,2013-3-3,565
-453,M3A3 Bradley,Non-functional,3,1,2015-5-28,281
-454,M970,On Maintenance,3,1,2014-8-20,92
-455,LAV-25,In Active Zone,44,1,2009-7-28,163
-456,M4,On Maintenance,2,0,2003-12-1,159
-457,M970,In Stock,19,0,2015-11-18,226
-458,Humvee,In Stock,8,1,2010-10-20,450
-459,Humvee,Non-functional,14,1,2008-4-24,101
-460,M4,In Stock,7,1,2018-1-23,573
-461,M4,Non-functional,42,1,2012-8-27,741
-462,Humvee,In Active Zone,26,0,2002-3-22,631
-463,LAV-25,In Stock,47,1,2003-1-7,43
-464,M1A1,Missing,42,0,2003-6-28,716
-465,M1,In Stock,29,1,2011-5-15,123
-466,Truck,In Active Zone,7,0,2016-9-13,271
-467,M970,Non-functional,3,1,2012-3-20,103
-468,M970,In Active Zone,49,0,2007-3-3,313
-469,Humvee,Non-functional,37,1,2001-1-12,603
-470,M113 APC,On Maintenance,27,0,2010-12-14,142
-471,LAV-25,In Stock,43,1,2013-11-2,507
-472,M3A3 Bradley,In Stock,44,0,2004-6-9,878
-473,M1,Non-functional,34,1,2013-10-1,640
-474,M3A3 Bradley,Non-functional,44,1,2008-8-3,736
-475,LAV-25,Missing,28,1,2012-5-8,831
-476,M113 APC,Missing,40,0,2002-10-14,194
-477,LAV-25,On Maintenance,28,0,2014-4-12,691
-478,M970,Non-functional,5,0,2004-8-24,133
-479,M970,In Stock,27,0,2005-6-7,422
-480,M1,Non-functional,15,0,2008-1-14,80
-481,M1,On Maintenance,30,1,2014-4-3,525
-482,M3A3 Bradley,In Stock,20,0,2012-8-13,956
-483,M113 APC,Non-functional,24,1,2010-10-3,536
-484,M4,Missing,19,1,2003-4-25,698
-485,Humvee,In Active Zone,39,0,2001-11-25,606
-486,Truck,In Stock,19,0,2006-8-5,621
-487,LAV-25,Missing,14,0,2012-6-22,430
-488,M3A3 Bradley,In Active Zone,42,0,2016-12-9,339
-489,M1A1,In Stock,50,1,2003-3-7,260
-490,Truck,In Active Zone,34,0,2002-3-6,717
-491,M970,Missing,38,1,2000-2-14,692
-492,M1A1,In Stock,32,0,2006-2-9,261
-493,M970,Non-functional,20,1,2011-5-25,737
-494,M113 APC,Non-functional,18,0,2003-7-21,902
-495,LAV-25,Non-functional,18,0,2014-7-4,917
-496,M1A1,In Stock,26,0,2006-12-3,9
-497,Humvee,On Maintenance,39,1,2002-9-2,927
-498,M970,Missing,18,0,2010-3-9,238
-499,M3A3 Bradley,In Active Zone,38,1,2013-11-9,264
-500,Truck,On Maintenance,16,1,2005-12-6,401
-501,M113 APC,In Stock,16,0,2015-8-15,413
-502,M1,Non-functional,29,1,2013-2-17,81
-503,M4,Non-functional,8,0,2017-7-12,995
-504,Humvee,Missing,24,1,2002-4-10,499
-505,M4,Non-functional,37,1,2003-6-19,107
-506,M4,Missing,49,0,2019-5-1,928
-507,M113 APC,In Stock,24,0,2002-4-21,177
-508,LAV-25,On Maintenance,36,0,2013-6-22,973
-509,M3A3 Bradley,Missing,34,1,2003-10-22,696
-510,M1A1,Non-functional,5,1,2001-9-9,338
-511,LAV-25,In Stock,41,0,2004-9-18,482
-512,M113 APC,In Stock,2,1,2008-12-11,357
-513,Humvee,In Stock,7,1,2008-10-16,266
-514,M970,Non-functional,5,0,2007-11-19,349
-515,Humvee,In Stock,8,0,2016-6-10,529
-516,M970,Missing,16,0,2000-11-8,153
-517,LAV-25,In Active Zone,29,0,2009-6-11,459
-518,M970,Missing,3,0,2005-6-1,812
-519,M1A1,Missing,45,0,2008-12-19,730
-520,M1A1,Missing,38,1,2018-1-11,229
-521,M1A1,In Active Zone,28,1,2002-11-19,974
-522,M970,On Maintenance,8,1,2007-5-6,784
-523,M113 APC,In Stock,36,1,2006-8-22,794
-524,Truck,Non-functional,19,1,2010-10-14,666
-525,M1,On Maintenance,46,1,2002-12-12,488
-526,M970,Missing,6,0,2017-7-17,782
-527,M1A1,In Stock,50,1,2001-5-11,699
-528,Truck,On Maintenance,41,1,2000-6-17,931
-529,M4,Missing,9,0,2019-1-20,474
-530,Truck,Non-functional,29,1,2001-11-7,145
-531,Humvee,On Maintenance,40,0,2001-1-25,21
-532,Truck,In Active Zone,44,0,2002-6-28,579
-533,LAV-25,Non-functional,37,1,2008-5-9,169
-534,M970,In Stock,20,0,2001-6-23,635
-535,M3A3 Bradley,In Stock,8,0,2005-7-4,130
-536,M1,In Stock,8,1,2008-4-1,406
-537,Truck,Missing,41,0,2002-11-3,365
-538,M970,In Active Zone,26,1,2018-4-27,89
-539,M113 APC,Missing,41,1,2003-1-25,193
-540,M4,Non-functional,12,0,2010-12-8,453
-541,M970,Non-functional,4,0,2013-5-12,469
-542,Humvee,In Active Zone,27,0,2012-11-9,405
-543,M1A1,In Active Zone,17,0,2006-6-2,137
-544,M970,In Active Zone,4,1,2012-1-16,721
-545,M113 APC,Non-functional,49,1,2003-8-2,932
-546,Humvee,Non-functional,23,0,2014-6-20,36
-547,Truck,On Maintenance,15,1,2011-4-27,788
-548,M970,On Maintenance,26,0,2014-4-20,439
-549,M1A1,In Stock,40,0,2002-3-12,855
-550,M4,Non-functional,45,0,2014-8-9,360
-551,M113 APC,Non-functional,27,0,2008-11-6,567
-552,M3A3 Bradley,On Maintenance,48,0,2006-9-18,907
-553,M1A1,On Maintenance,44,0,2019-11-10,925
-554,M1,In Stock,42,1,2016-1-4,684
-555,M970,In Active Zone,25,1,2007-4-18,270
-556,M970,In Active Zone,10,0,2017-10-9,87
-557,Truck,In Stock,5,1,2007-6-1,575
-558,M1A1,Missing,20,0,2005-7-9,12
-559,M4,Missing,43,0,2011-7-12,134
-560,M970,In Stock,2,0,2018-4-15,426
-561,Truck,Missing,29,0,2017-7-8,922
-562,LAV-25,In Stock,41,1,2009-11-7,683
-563,M113 APC,On Maintenance,33,0,2008-10-14,298
-564,M4,In Stock,23,0,2009-12-12,454
-565,M1A1,On Maintenance,31,0,2009-11-28,127
-566,M3A3 Bradley,In Active Zone,47,1,2016-1-25,952
-567,LAV-25,In Stock,2,0,2010-10-18,514
-568,M1A1,In Stock,6,1,2013-7-2,294
-569,M3A3 Bradley,In Active Zone,44,1,2002-10-14,687
-570,LAV-25,Non-functional,1,1,2008-4-25,858
-571,M970,In Stock,17,0,2006-5-19,500
-572,M970,Non-functional,38,1,2008-7-18,11
-573,M1A1,On Maintenance,36,0,2010-6-8,61
-574,M3A3 Bradley,Non-functional,12,1,2019-5-9,45
-575,Truck,On Maintenance,14,0,2008-12-21,850
-576,M1A1,Non-functional,25,1,2016-10-8,206
-577,M1,Non-functional,48,1,2011-9-6,797
-578,Humvee,Non-functional,1,1,2001-1-8,490
-579,M3A3 Bradley,Missing,20,0,2003-6-7,888
-580,M1A1,In Active Zone,35,0,2002-11-3,278
-581,M1A1,In Active Zone,3,1,2005-5-7,776
-582,M1,On Maintenance,12,1,2014-2-24,585
-583,Humvee,In Stock,31,1,2011-9-21,639
-584,Truck,Non-functional,2,0,2017-5-9,780
-585,M1,In Active Zone,45,0,2006-6-8,79
-586,Humvee,Non-functional,10,0,2008-7-12,686
-587,Humvee,In Stock,32,0,2015-5-20,25
-588,M970,On Maintenance,45,1,2000-12-12,335
-589,Truck,In Stock,20,0,2003-6-14,108
-590,Truck,In Active Zone,14,1,2012-10-11,203
-591,M1,In Stock,1,1,2019-2-4,993
-592,M1,Missing,27,0,2005-9-21,572
-593,M970,In Stock,12,1,2001-10-25,104
-594,M3A3 Bradley,Non-functional,27,1,2015-4-7,923
-595,M113 APC,In Stock,36,0,2007-2-2,636
-596,M4,Non-functional,40,1,2008-10-6,766
-597,LAV-25,Non-functional,21,0,2006-7-19,946
-598,Humvee,On Maintenance,49,1,2012-12-28,295
-599,M4,In Stock,32,0,2001-1-10,147
-600,LAV-25,On Maintenance,47,1,2004-10-13,681
-601,M1,In Stock,28,1,2004-8-6,861
-602,M1A1,Missing,30,0,2018-5-9,975
-603,M3A3 Bradley,Non-functional,4,1,2004-4-16,361
-604,M1A1,On Maintenance,33,1,2011-9-8,718
-605,M1A1,Missing,23,0,2017-7-5,967
-606,M1A1,In Stock,30,1,2013-7-16,819
-607,M4,In Stock,25,1,2012-6-10,771
-608,M1A1,Missing,27,1,2012-1-24,900
-609,LAV-25,Missing,11,1,2001-12-19,796
-610,Humvee,Missing,24,0,2016-4-28,870
-611,M1,On Maintenance,9,0,2018-5-3,287
-612,LAV-25,Non-functional,40,1,2002-3-17,205
-613,M1,In Stock,10,0,2019-8-18,220
-614,M4,In Stock,18,1,2019-5-6,55
-615,M970,In Active Zone,8,0,2013-3-18,75
-616,LAV-25,In Stock,29,0,2003-9-24,762
-617,M1A1,Non-functional,23,1,2008-10-15,436
-618,Truck,On Maintenance,22,0,2015-11-15,325
-619,M3A3 Bradley,In Active Zone,49,1,2001-11-15,435
-620,Truck,In Stock,11,1,2005-12-9,658
-621,M3A3 Bradley,Non-functional,34,0,2008-7-11,802
-622,M970,Missing,26,1,2019-11-7,938
-623,M1A1,In Stock,20,0,2009-7-14,869
-624,M3A3 Bradley,In Active Zone,48,1,2000-2-12,625
-625,M3A3 Bradley,On Maintenance,1,1,2010-6-10,867
-626,M3A3 Bradley,In Stock,27,1,2012-7-28,63
-627,M113 APC,On Maintenance,48,0,2000-10-27,24
-628,M113 APC,In Stock,35,1,2002-10-15,99
-629,M3A3 Bradley,Missing,49,1,2013-8-26,755
-630,M4,In Active Zone,30,1,2009-2-28,483
-631,M113 APC,In Stock,22,0,2009-5-13,250
-632,M970,On Maintenance,46,1,2010-4-16,182
-633,M4,On Maintenance,24,0,2003-9-27,138
-634,M113 APC,On Maintenance,50,0,2001-1-27,351
-635,M3A3 Bradley,On Maintenance,24,0,2008-8-15,984
-636,M3A3 Bradley,Non-functional,16,1,2006-5-18,910
-637,Truck,Missing,6,0,2000-3-17,731
-638,M113 APC,Non-functional,21,0,2015-4-5,583
-639,M113 APC,On Maintenance,4,0,2002-12-21,393
-640,Truck,Missing,40,0,2010-1-8,85
-641,M113 APC,Missing,6,0,2014-4-9,767
-642,LAV-25,On Maintenance,1,1,2014-7-25,840
-643,M4,On Maintenance,20,0,2007-7-10,443
-644,M4,On Maintenance,20,0,2001-8-21,537
-645,M3A3 Bradley,Missing,28,1,2017-10-2,379
-646,M3A3 Bradley,In Stock,18,0,2000-7-27,798
-647,M3A3 Bradley,Non-functional,48,1,2007-6-4,759
-648,M1A1,Non-functional,38,0,2017-12-14,72
-649,M113 APC,On Maintenance,26,0,2011-4-24,480
-650,M113 APC,In Active Zone,29,0,2003-1-4,770
-651,M3A3 Bradley,Missing,1,1,2013-10-27,891
-652,M113 APC,Missing,1,0,2011-5-17,673
-653,M970,Missing,36,0,2011-1-7,50
-654,LAV-25,Non-functional,28,1,2010-4-23,150
-655,M3A3 Bradley,In Active Zone,23,0,2008-7-5,160
-656,Humvee,In Active Zone,17,0,2001-7-27,943
-657,LAV-25,In Stock,22,1,2007-12-22,26
-658,M4,Non-functional,5,0,2004-1-19,486
-659,M3A3 Bradley,In Stock,1,1,2018-3-7,403
-660,M1A1,Non-functional,26,0,2012-11-5,308
-661,M970,In Active Zone,47,1,2004-10-13,672
-662,M3A3 Bradley,In Active Zone,28,1,2018-3-13,155
-663,M1A1,Non-functional,46,0,2011-8-15,172
-664,M4,Non-functional,4,0,2019-8-24,382
-665,M970,In Stock,39,0,2004-11-8,125
-666,Truck,Non-functional,41,0,2003-7-16,309
-667,LAV-25,In Active Zone,48,1,2013-7-1,779
-668,M1,On Maintenance,24,1,2003-12-23,274
-669,M113 APC,Non-functional,4,1,2005-8-24,976
-670,M1A1,In Active Zone,43,1,2017-8-11,810
-671,M4,In Active Zone,43,1,2002-11-10,71
-672,Humvee,In Active Zone,20,1,2007-9-15,14
-673,LAV-25,In Active Zone,19,0,2008-10-25,315
-674,LAV-25,In Stock,32,0,2003-6-27,859
-675,Truck,Non-functional,7,1,2009-1-3,305
-676,Truck,Missing,39,0,2018-4-23,408
-677,M4,Non-functional,24,0,2001-5-21,528
-678,LAV-25,Non-functional,14,1,2009-6-3,813
-679,M1A1,Non-functional,8,1,2007-3-10,706
-680,Truck,Non-functional,10,0,2018-12-4,749
-681,M970,Non-functional,27,0,2017-3-19,854
-682,M1A1,On Maintenance,29,1,2008-12-6,988
-683,Truck,Non-functional,30,1,2014-2-26,423
-684,M1A1,In Stock,35,1,2004-7-18,942
-685,M113 APC,Non-functional,33,0,2003-11-13,449
-686,Truck,In Active Zone,39,1,2012-11-9,654
-687,LAV-25,Missing,5,0,2018-11-15,513
-688,M113 APC,Non-functional,11,0,2004-7-20,343
-689,M113 APC,Non-functional,48,1,2015-11-12,839
-690,M1,In Active Zone,46,0,2008-8-7,837
-691,M113 APC,On Maintenance,12,0,2011-9-11,60
-692,M1,In Stock,35,1,2003-6-27,626
-693,Truck,Non-functional,31,0,2002-12-3,388
-694,Truck,Missing,45,0,2010-9-8,504
-695,M1A1,Missing,39,1,2016-1-16,600
-696,M1,Non-functional,24,1,2013-3-5,652
-697,M1,Non-functional,22,1,2004-11-19,86
-698,M3A3 Bradley,In Active Zone,50,0,2008-8-5,628
-699,M4,Missing,48,0,2009-12-9,416
-700,Truck,In Active Zone,37,0,2017-3-23,415
-701,M1A1,On Maintenance,30,1,2000-11-8,235
-702,M1,In Active Zone,20,0,2013-11-20,992
-703,LAV-25,In Stock,27,0,2003-4-19,522
-704,M3A3 Bradley,In Active Zone,39,0,2007-7-5,733
-705,M113 APC,Missing,38,1,2009-11-12,447
-706,Truck,Missing,32,1,2004-9-21,903
-707,M1,In Stock,32,0,2019-1-27,84
-708,M970,On Maintenance,45,1,2011-6-20,93
-709,M1,Missing,32,1,2012-12-6,607
-710,M1A1,On Maintenance,35,1,2012-12-13,665
-711,M1A1,Non-functional,33,1,2006-1-26,112
-712,M113 APC,On Maintenance,39,1,2017-1-18,930
-713,M3A3 Bradley,In Active Zone,36,0,2019-8-10,508
-714,M970,In Stock,9,0,2004-7-20,588
-715,M113 APC,Non-functional,12,1,2008-3-24,765
-716,Truck,Non-functional,27,1,2019-7-15,285
-717,M1A1,On Maintenance,3,1,2017-12-20,543
-718,LAV-25,In Active Zone,47,1,2015-10-18,35
-719,LAV-25,Non-functional,40,0,2014-11-2,746
-720,Humvee,Non-functional,42,1,2015-5-15,32
-721,LAV-25,Missing,33,0,2007-10-22,22
-722,M970,In Stock,40,1,2013-10-24,111
-723,LAV-25,In Stock,13,1,2010-6-12,979
-724,M113 APC,In Active Zone,33,0,2015-2-27,263
-725,M113 APC,On Maintenance,37,1,2004-4-8,231
-726,M3A3 Bradley,Missing,18,0,2018-12-11,171
-727,M3A3 Bradley,In Active Zone,41,0,2007-6-3,964
-728,M4,In Active Zone,4,1,2008-5-5,52
-729,M970,On Maintenance,10,1,2016-2-2,347
-730,M3A3 Bradley,In Stock,29,0,2013-8-2,433
-731,M113 APC,In Active Zone,46,0,2004-3-15,148
-732,M1,Non-functional,11,0,2019-12-11,5
-733,M1,Non-functional,47,0,2012-4-13,191
-734,Humvee,Non-functional,29,0,2000-6-26,387
-735,M1,In Stock,4,1,2010-11-11,977
-736,M1,On Maintenance,13,0,2003-8-7,750
-737,M113 APC,In Stock,35,0,2000-6-6,222
-738,Humvee,Missing,31,0,2016-4-3,655
-739,M1A1,In Active Zone,1,1,2014-7-10,494
-740,Humvee,In Active Zone,11,0,2015-8-3,307
-741,LAV-25,In Active Zone,12,1,2011-9-19,314
-742,Humvee,Missing,36,1,2004-9-24,924
-743,M970,Missing,41,0,2014-9-16,503
-744,M4,Missing,26,0,2019-7-22,578
-745,M4,In Stock,16,0,2010-1-24,495
-746,M1A1,On Maintenance,20,1,2018-6-5,841
-747,M1A1,Non-functional,27,0,2007-11-26,196
-748,M3A3 Bradley,On Maintenance,49,1,2000-1-18,105
-749,M3A3 Bradley,In Stock,24,1,2000-4-7,875
-750,M3A3 Bradley,In Active Zone,6,0,2005-9-15,846
-751,M4,Missing,1,1,2016-11-8,118
-752,M113 APC,On Maintenance,31,1,2006-7-16,959
-753,M4,In Stock,22,1,2012-1-2,290
-754,M970,Missing,37,0,2005-2-14,156
-755,M1,On Maintenance,23,1,2005-12-24,547
-756,Truck,Missing,10,0,2000-4-13,386
-757,Truck,In Stock,35,0,2018-8-4,864
-758,Truck,In Stock,35,0,2004-1-19,901
-759,Humvee,In Active Zone,29,1,2014-2-18,695
-760,Truck,On Maintenance,4,0,2003-4-27,98
-761,M4,In Stock,44,1,2008-3-10,300
-762,Truck,On Maintenance,12,0,2012-8-7,531
-763,M1A1,Missing,2,0,2002-12-1,282
-764,Truck,In Active Zone,8,0,2013-8-25,293
-765,M970,On Maintenance,47,0,2001-4-3,743
-766,M1,Missing,1,1,2005-5-18,833
-767,M3A3 Bradley,Missing,43,0,2000-11-15,916
-768,Humvee,Missing,19,1,2003-6-9,4
-769,Humvee,Non-functional,50,0,2014-8-17,710
-770,M3A3 Bradley,In Stock,43,0,2014-8-9,789
-771,M1,In Active Zone,5,0,2017-5-17,209
-772,M113 APC,In Active Zone,10,0,2013-12-20,100
-773,M3A3 Bradley,In Stock,11,1,2012-5-21,601
-774,M1,Non-functional,4,1,2009-11-20,121
-775,Humvee,In Stock,39,0,2003-8-26,868
-776,M970,Missing,41,0,2007-9-12,326
-777,M4,Missing,20,0,2006-9-25,291
-778,M3A3 Bradley,Missing,33,0,2008-7-15,176
-779,M1A1,Missing,35,1,2002-8-9,747
-780,LAV-25,On Maintenance,44,1,2014-1-11,180
-781,LAV-25,In Stock,28,0,2003-6-25,618
-782,M1A1,In Stock,10,1,2014-10-16,373
-783,M4,Missing,49,1,2011-11-23,554
-784,Humvee,Non-functional,42,0,2005-5-20,48
-785,M3A3 Bradley,In Active Zone,21,0,2011-4-20,239
-786,M3A3 Bradley,Missing,49,1,2012-9-5,390
-787,M4,In Stock,46,1,2011-1-16,332
-788,M1,In Stock,47,1,2000-10-18,559
-789,M1,Non-functional,20,1,2013-3-19,506
-790,Humvee,Non-functional,45,1,2015-9-26,890
-791,LAV-25,In Stock,50,1,2007-10-19,299
-792,M4,On Maintenance,34,0,2008-10-25,432
-793,M1,On Maintenance,11,1,2005-9-25,236
-794,M1A1,Missing,12,1,2012-2-26,479
-795,Truck,In Active Zone,44,0,2004-8-22,49
-796,M1A1,In Stock,49,0,2019-9-25,894
-797,Humvee,In Stock,17,0,2005-8-16,237
-798,Truck,In Stock,38,1,2000-1-26,934
-799,M1A1,Non-functional,21,0,2013-12-18,679
-800,Truck,On Maintenance,23,0,2017-7-22,311
-801,M970,Non-functional,29,0,2007-8-27,823
-802,Humvee,Non-functional,1,0,2014-11-3,175
-803,M113 APC,Missing,9,0,2000-5-10,124
-804,M3A3 Bradley,On Maintenance,14,1,2012-4-8,38
-805,M3A3 Bradley,Missing,39,0,2003-12-16,740
-806,M3A3 Bradley,Non-functional,9,0,2009-5-4,77
-807,M4,Missing,47,0,2009-6-1,10
-808,Truck,On Maintenance,40,1,2000-5-26,896
-809,Truck,In Active Zone,46,0,2018-2-21,18
-810,LAV-25,Missing,45,1,2004-5-20,178
-811,Humvee,Missing,36,0,2003-12-8,671
-812,LAV-25,Missing,46,0,2004-10-7,581
-813,M3A3 Bradley,In Stock,5,1,2015-6-28,889
-814,M3A3 Bradley,Non-functional,19,0,2018-4-16,395
-815,M3A3 Bradley,On Maintenance,21,1,2004-12-7,871
-816,LAV-25,In Stock,9,0,2000-10-7,511
-817,M4,In Active Zone,16,0,2002-6-1,428
-818,Truck,Non-functional,30,0,2000-11-25,895
-819,M970,Non-functional,34,1,2000-3-24,275
-820,Truck,On Maintenance,11,1,2019-6-5,602
-821,Truck,Missing,22,0,2015-2-21,185
-822,Humvee,Missing,10,0,2013-3-27,96
-823,Truck,In Stock,35,0,2019-10-24,633
-824,M1,Non-functional,33,1,2005-1-6,254
-825,M970,In Stock,5,1,2018-1-9,54
-826,M113 APC,On Maintenance,1,0,2012-1-25,418
-827,M3A3 Bradley,In Stock,42,1,2010-10-19,777
-828,Truck,Non-functional,32,1,2007-10-14,918
-829,M113 APC,On Maintenance,31,1,2015-12-12,816
-830,Humvee,On Maintenance,4,0,2006-1-21,845
-831,Humvee,In Stock,5,0,2018-3-6,817
-832,M3A3 Bradley,In Active Zone,24,0,2017-5-20,438
-833,Humvee,In Active Zone,13,0,2000-4-6,57
-834,M1A1,In Active Zone,4,0,2010-3-11,637
-835,M970,Non-functional,40,0,2001-7-15,843
-836,M3A3 Bradley,Non-functional,40,1,2000-9-5,592
-837,Humvee,Missing,14,1,2007-6-19,739
-838,Truck,In Stock,18,0,2017-10-19,116
-839,LAV-25,In Active Zone,12,1,2012-5-27,793
-840,M970,In Active Zone,33,1,2016-3-6,544
-841,M4,In Stock,38,0,2003-3-9,53
-842,Humvee,Non-functional,37,1,2019-6-24,629
-843,M3A3 Bradley,Non-functional,47,1,2017-9-11,181
-844,M3A3 Bradley,Missing,17,0,2019-11-21,411
-845,M4,Missing,33,0,2012-11-20,230
-846,M1,In Active Zone,42,1,2011-1-3,201
-847,M3A3 Bradley,In Stock,35,1,2011-7-14,492
-848,M4,Non-functional,37,0,2019-10-12,218
-849,M3A3 Bradley,Missing,30,1,2015-12-1,962
-850,M1A1,In Stock,41,1,2000-10-2,842
-851,M113 APC,Non-functional,12,1,2005-4-19,560
-852,M1A1,In Stock,7,0,2018-10-6,409
-853,M970,In Active Zone,44,1,2011-5-5,904
-854,M113 APC,In Active Zone,31,1,2015-12-10,551
-855,M113 APC,On Maintenance,44,1,2013-8-27,131
-856,M113 APC,Non-functional,33,1,2011-9-20,596
-857,M3A3 Bradley,In Active Zone,6,0,2004-1-19,944
-858,M1A1,In Stock,11,0,2013-11-25,396
-859,M113 APC,Missing,14,1,2011-7-25,56
-860,M1,On Maintenance,14,1,2004-7-9,223
-861,M113 APC,Missing,21,0,2004-12-9,460
-862,Truck,On Maintenance,39,0,2009-2-2,515
-863,M970,Missing,1,1,2016-10-27,586
-864,M113 APC,On Maintenance,34,1,2003-11-12,170
-865,M970,In Active Zone,42,0,2006-2-3,911
-866,M1A1,On Maintenance,44,1,2007-4-8,971
-867,Truck,On Maintenance,8,0,2014-1-8,712
-868,M1A1,Missing,15,1,2015-7-12,748
-869,Truck,On Maintenance,10,0,2009-8-4,957
-870,M3A3 Bradley,In Stock,36,1,2012-5-17,876
-871,M4,On Maintenance,21,0,2000-12-10,502
-872,M4,On Maintenance,34,0,2004-11-14,713
-873,M113 APC,In Active Zone,36,0,2014-8-11,697
-874,LAV-25,Missing,11,1,2017-12-10,664
-875,M113 APC,In Active Zone,30,1,2005-1-24,440
-876,LAV-25,On Maintenance,18,0,2017-4-8,113
-877,Truck,In Active Zone,6,0,2018-7-20,498
-878,M4,In Active Zone,9,1,2019-4-19,417
-879,M4,Non-functional,11,0,2013-7-11,853
-880,LAV-25,In Stock,14,0,2011-11-9,437
-881,M1A1,Non-functional,41,1,2000-12-14,678
-882,M970,Missing,2,0,2007-1-12,316
-883,M1A1,In Stock,49,0,2007-2-16,951
-884,LAV-25,Non-functional,29,0,2011-1-13,135
-885,M4,Missing,32,1,2009-5-9,154
-886,M113 APC,In Stock,19,1,2008-3-10,468
-887,M1A1,In Active Zone,34,0,2000-12-5,548
-888,M3A3 Bradley,Missing,27,1,2005-3-27,594
-889,Truck,Missing,25,0,2006-9-26,656
-890,M1,In Active Zone,43,0,2010-9-1,723
-891,Truck,Non-functional,20,1,2014-4-26,584
-892,Truck,In Stock,40,1,2015-6-27,258
-893,M1,Non-functional,21,0,2002-7-3,320
-894,LAV-25,In Stock,14,0,2001-4-6,682
-895,M1A1,In Stock,15,1,2008-12-5,198
-896,M113 APC,Non-functional,44,1,2013-3-10,677
-897,Humvee,Missing,46,0,2016-6-9,657
-898,M1A1,Missing,10,0,2010-4-16,318
-899,M4,On Maintenance,19,0,2018-2-19,208
-900,M4,In Stock,49,1,2004-7-19,915
-901,Truck,On Maintenance,49,1,2016-11-28,28
-902,M970,In Active Zone,15,1,2015-12-16,801
-903,Humvee,On Maintenance,14,1,2013-9-8,517
-904,M4,Missing,26,0,2015-4-25,535
-905,M113 APC,Non-functional,37,1,2003-11-27,424
-906,M1,Missing,18,0,2005-12-26,972
-907,M1,In Active Zone,47,0,2000-4-7,570
-908,M970,Non-functional,18,1,2006-3-21,383
-909,M970,Non-functional,11,1,2011-4-12,157
-910,Humvee,Non-functional,31,1,2016-9-14,645
-911,M970,In Active Zone,32,0,2005-2-18,929
-912,M970,In Active Zone,37,0,2007-1-22,489
-913,M4,On Maintenance,35,0,2002-3-12,822
-914,M1A1,On Maintenance,13,1,2019-3-22,199
-915,M1A1,In Stock,48,1,2003-3-17,102
-916,M113 APC,On Maintenance,41,0,2001-1-16,805
-917,M4,On Maintenance,26,1,2007-5-18,358
-918,M1A1,On Maintenance,10,1,2011-8-9,773
-919,Humvee,In Stock,3,0,2002-8-7,234
-920,M4,On Maintenance,2,0,2009-11-3,804
-921,M1,Non-functional,15,0,2009-11-20,164
-922,M1,In Active Zone,31,1,2017-6-14,587
-923,M1,On Maintenance,21,0,2000-7-28,542
-924,M1,On Maintenance,41,0,2019-2-27,966
-925,M3A3 Bradley,In Stock,38,1,2002-6-10,256
-926,M1A1,In Active Zone,19,0,2019-9-8,2
-927,M970,In Stock,44,1,2002-6-7,473
-928,Humvee,Missing,38,1,2003-12-3,676
-929,M3A3 Bradley,Non-functional,4,0,2018-9-24,742
-930,M1,On Maintenance,47,0,2016-11-18,359
-931,M1,On Maintenance,49,0,2015-1-28,838
-932,M1A1,On Maintenance,23,1,2010-9-5,576
-933,M1A1,Non-functional,25,1,2003-12-18,756
-934,Humvee,Missing,46,1,2018-11-21,451
-935,M3A3 Bradley,In Active Zone,45,1,2009-11-12,302
-936,LAV-25,In Stock,43,1,2005-2-12,516
-937,Truck,In Active Zone,1,1,2003-7-8,367
-938,M1,In Stock,26,0,2017-3-18,689
-939,M113 APC,Missing,17,0,2010-12-4,174
-940,Truck,In Stock,3,1,2017-12-8,190
-941,Truck,In Active Zone,33,1,2009-5-3,680
-942,M3A3 Bradley,Missing,49,1,2000-6-8,913
-943,LAV-25,Missing,18,0,2006-3-22,597
-944,Truck,In Active Zone,12,0,2010-6-6,233
-945,M1A1,In Stock,44,1,2001-10-19,703
-946,LAV-25,In Active Zone,10,1,2008-7-3,257
-947,M970,Non-functional,22,1,2015-12-20,937
-948,M4,On Maintenance,46,0,2003-3-14,757
-949,LAV-25,In Active Zone,22,1,2013-1-4,553
-950,M1,In Active Zone,28,1,2004-4-4,1000
-951,M3A3 Bradley,Missing,30,1,2007-8-21,860
-952,M1,Missing,42,1,2004-1-7,288
-953,M1A1,Non-functional,11,0,2018-4-25,852
-954,M113 APC,On Maintenance,12,1,2010-11-26,88
-955,M4,Missing,17,1,2017-3-10,41
-956,LAV-25,Non-functional,27,0,2019-12-3,663
-957,Truck,Missing,34,0,2015-10-9,119
-958,M1A1,Missing,14,1,2004-7-5,580
-959,M3A3 Bradley,Missing,28,1,2003-4-25,725
-960,LAV-25,Missing,19,0,2015-9-23,709
-961,M970,Non-functional,9,0,2011-8-18,998
-962,M113 APC,On Maintenance,6,1,2000-10-17,650
-963,M4,Missing,29,0,2018-7-24,212
-964,M1A1,In Active Zone,6,0,2018-10-8,933
-965,M3A3 Bradley,Non-functional,48,0,2009-8-6,953
-966,M113 APC,On Maintenance,40,1,2012-6-14,297
-967,Humvee,In Active Zone,12,1,2012-8-17,151
-968,M1,Missing,35,1,2004-10-24,632
-969,M1A1,In Active Zone,6,1,2004-7-19,862
-970,M1,In Stock,9,1,2014-10-19,598
-971,M970,Missing,17,1,2007-4-12,65
-972,M1,In Active Zone,36,0,2019-4-9,700
-973,M4,On Maintenance,36,0,2011-12-24,505
-974,M3A3 Bradley,Missing,38,1,2001-5-1,886
-975,M970,Missing,48,0,2003-12-4,899
-976,LAV-25,Non-functional,19,0,2004-3-3,887
-977,M970,In Active Zone,7,0,2013-5-8,826
-978,M113 APC,Non-functional,22,0,2003-7-14,704
-979,Humvee,In Stock,8,1,2019-8-4,533
-980,Truck,On Maintenance,48,1,2003-1-19,366
-981,Humvee,Non-functional,11,1,2006-7-18,265
-982,M3A3 Bradley,Missing,49,0,2018-8-18,807
-983,Truck,Non-functional,47,0,2019-3-20,187
-984,M113 APC,In Active Zone,11,0,2018-12-16,604
-985,M113 APC,On Maintenance,1,1,2004-7-20,701
-986,Humvee,On Maintenance,43,1,2010-1-12,561
-987,Humvee,On Maintenance,23,1,2005-11-5,501
-988,LAV-25,In Stock,39,1,2009-7-18,832
-989,LAV-25,Non-functional,33,1,2007-10-22,301
-990,M1,Missing,24,1,2003-6-17,139
-991,LAV-25,Non-functional,37,1,2001-7-12,412
-992,Humvee,Non-functional,34,0,2016-9-21,969
-993,M1A1,In Active Zone,29,1,2000-3-2,994
-994,Truck,In Stock,39,0,2015-3-10,989
-995,M3A3 Bradley,Non-functional,36,1,2003-9-12,364
-996,Truck,In Active Zone,5,1,2019-9-14,462
-997,Humvee,Missing,2,0,2006-12-5,926
-998,LAV-25,In Stock,16,0,2016-8-1,76
-999,Truck,Non-functional,7,1,2016-9-12,161
-1000,Humvee,In Stock,31,0,2011-4-12,726
+1,M1A1,In Stock,19,1,2002-12-24
+2,LAV-25,On Maintenance,16,1,2012-12-4
+3,Truck,Missing,38,1,2005-7-27
+4,M1,Missing,47,1,2016-6-21
+5,LAV-25,Non-functional,21,0,2000-7-10
+6,Truck,In Stock,9,0,2010-2-20
+7,M113 APC,Missing,28,0,2002-5-23
+8,M4,Missing,41,1,2018-3-11
+9,Humvee,In Stock,22,1,2013-9-11
+10,LAV-25,On Maintenance,34,0,2008-9-1
+11,M1A1,Missing,46,0,2014-5-2
+12,M113 APC,Missing,32,0,2002-7-19
+13,M1,Non-functional,41,1,2001-7-2
+14,M1A1,On Maintenance,21,0,2008-12-3
+15,M113 APC,On Maintenance,27,1,2002-10-28
+16,M3A3 Bradley,Non-functional,33,1,2009-9-14
+17,M970,On Maintenance,33,0,2018-8-27
+18,Humvee,Non-functional,49,0,2009-9-27
+19,M970,In Stock,37,0,2001-4-18
+20,M1A1,Non-functional,45,1,2011-9-8
+21,M3A3 Bradley,In Active Zone,33,0,2009-5-26
+22,M1A1,In Stock,45,0,2015-12-23
+23,M970,Missing,46,1,2004-5-5
+24,M3A3 Bradley,In Active Zone,21,0,2004-3-13
+25,LAV-25,In Stock,31,0,2012-6-18
+26,M4,Non-functional,39,0,2017-11-24
+27,M1,Missing,8,1,2007-9-3
+28,M1,Non-functional,24,0,2005-1-2
+29,Humvee,In Active Zone,24,1,2014-10-11
+30,LAV-25,In Stock,27,0,2009-10-9
+31,M1,On Maintenance,10,1,2006-6-16
+32,M3A3 Bradley,On Maintenance,32,1,2016-9-7
+33,M1A1,In Active Zone,29,0,2019-6-15
+34,Humvee,In Stock,23,1,2017-8-12
+35,Humvee,In Active Zone,4,0,2007-11-11
+36,Humvee,In Active Zone,25,0,2008-9-13
+37,Humvee,Missing,9,1,2013-4-7
+38,M1,Non-functional,15,1,2018-4-16
+39,M4,Non-functional,10,0,2002-12-13
+40,Humvee,In Active Zone,42,1,2007-9-22
+41,M970,Non-functional,1,1,2005-2-27
+42,M970,In Active Zone,31,1,2014-7-2
+43,M970,In Stock,41,0,2002-12-21
+44,M1A1,In Active Zone,8,1,2015-7-28
+45,Humvee,Missing,41,0,2011-12-20
+46,Truck,On Maintenance,19,1,2004-10-1
+47,M970,Missing,28,1,2011-8-14
+48,M3A3 Bradley,Missing,44,1,2017-11-18
+49,M970,Non-functional,15,1,2017-5-22
+50,Humvee,On Maintenance,40,0,2011-8-1
+51,LAV-25,On Maintenance,15,0,2008-8-10
+52,M3A3 Bradley,In Active Zone,2,0,2014-5-10
+53,M4,In Active Zone,34,1,2006-10-10
+54,Humvee,Non-functional,8,1,2005-9-3
+55,M970,Missing,13,1,2006-10-9
+56,Humvee,Non-functional,7,1,2002-4-22
+57,M1A1,Non-functional,41,0,2004-9-4
+58,Humvee,On Maintenance,37,0,2009-10-21
+59,M1,On Maintenance,6,1,2014-3-25
+60,LAV-25,Non-functional,42,0,2013-5-19
+61,M970,In Active Zone,48,1,2000-10-18
+62,Humvee,In Stock,42,1,2003-10-27
+63,M970,In Stock,45,0,2007-11-6
+64,M1A1,Non-functional,17,0,2018-8-10
+65,LAV-25,Missing,27,0,2010-5-6
+66,Truck,Non-functional,50,0,2003-1-2
+67,M113 APC,On Maintenance,1,0,2005-2-4
+68,M1,Missing,16,0,2015-12-25
+69,Truck,In Stock,31,1,2001-4-5
+70,M113 APC,In Active Zone,22,1,2010-3-7
+71,M1A1,Missing,19,1,2011-12-19
+72,M970,Missing,20,0,2004-1-27
+73,Truck,Non-functional,45,0,2013-12-1
+74,Humvee,Missing,18,0,2008-8-25
+75,M113 APC,On Maintenance,29,1,2002-8-14
+76,Truck,On Maintenance,10,0,2015-6-11
+77,M1A1,In Stock,17,1,2010-10-11
+78,M4,Missing,38,0,2009-5-26
+79,M3A3 Bradley,In Active Zone,18,1,2005-10-3
+80,Humvee,On Maintenance,19,1,2011-3-17
+81,M1A1,Non-functional,48,1,2019-9-10
+82,M4,Missing,28,0,2009-2-3
+83,M970,In Active Zone,39,1,2019-8-21
+84,Truck,In Active Zone,19,0,2018-5-27
+85,M3A3 Bradley,In Stock,24,1,2009-8-6
+86,M1,In Active Zone,42,1,2019-8-17
+87,M4,Missing,38,0,2000-9-9
+88,M113 APC,In Stock,9,1,2004-9-26
+89,M1A1,Missing,13,1,2002-11-25
+90,M1,In Stock,20,0,2010-12-15
+91,M1,On Maintenance,40,0,2002-2-4
+92,Truck,Missing,16,0,2003-12-19
+93,M970,In Active Zone,20,0,2017-12-11
+94,M3A3 Bradley,Non-functional,17,1,2016-1-10
+95,M3A3 Bradley,Missing,38,0,2005-3-26
+96,M970,Missing,7,1,2002-7-17
+97,Humvee,Missing,18,0,2018-2-22
+98,Truck,On Maintenance,13,1,2015-8-16
+99,Humvee,Non-functional,15,0,2003-1-7
+100,M4,Missing,12,1,2010-1-15
+101,M4,In Active Zone,21,1,2018-1-12
+102,M1,On Maintenance,7,1,2018-12-27
+103,LAV-25,On Maintenance,29,1,2000-3-14
+104,Truck,On Maintenance,48,0,2005-12-22
+105,M1,In Active Zone,12,1,2010-6-25
+106,M1,Non-functional,15,1,2002-4-22
+107,M1A1,In Active Zone,38,1,2019-3-22
+108,Humvee,In Active Zone,22,1,2007-9-10
+109,LAV-25,On Maintenance,29,0,2000-5-14
+110,M970,On Maintenance,24,0,2007-8-21
+111,M1,In Active Zone,35,0,2009-2-15
+112,M113 APC,In Active Zone,7,0,2003-3-21
+113,M1,On Maintenance,47,1,2019-9-11
+114,M1,In Stock,7,1,2005-9-15
+115,Truck,In Stock,48,1,2000-7-11
+116,LAV-25,Missing,24,1,2001-12-22
+117,M1A1,Non-functional,30,0,2014-2-19
+118,Humvee,In Stock,26,1,2016-3-17
+119,M970,In Stock,8,1,2017-2-17
+120,M4,Missing,17,0,2013-2-2
+121,M970,In Active Zone,6,0,2017-8-14
+122,M970,In Stock,47,1,2018-5-21
+123,Humvee,In Stock,37,0,2015-5-21
+124,Truck,In Active Zone,10,1,2019-12-5
+125,LAV-25,In Stock,32,0,2003-2-24
+126,M970,On Maintenance,22,1,2009-9-7
+127,Truck,Missing,47,1,2010-6-23
+128,M3A3 Bradley,Non-functional,50,1,2017-10-4
+129,M1A1,Non-functional,7,1,2011-3-26
+130,M3A3 Bradley,On Maintenance,23,0,2014-6-10
+131,M4,Non-functional,2,0,2007-6-11
+132,M970,Non-functional,4,1,2004-11-25
+133,M3A3 Bradley,Non-functional,1,1,2001-3-12
+134,M970,On Maintenance,12,1,2006-1-3
+135,M3A3 Bradley,In Active Zone,36,1,2000-7-4
+136,M970,In Stock,15,1,2004-7-2
+137,M113 APC,In Stock,4,1,2019-8-6
+138,M4,In Stock,35,0,2001-6-24
+139,LAV-25,On Maintenance,6,0,2015-4-27
+140,Truck,On Maintenance,49,1,2015-3-23
+141,M3A3 Bradley,In Stock,24,0,2005-9-23
+142,M1A1,Missing,7,1,2008-8-6
+143,M3A3 Bradley,On Maintenance,11,1,2010-1-17
+144,M970,Missing,38,1,2002-1-20
+145,M3A3 Bradley,In Active Zone,46,0,2002-10-28
+146,Humvee,Missing,13,1,2016-4-19
+147,LAV-25,In Active Zone,6,0,2005-7-22
+148,Truck,In Active Zone,42,1,2010-12-11
+149,M1A1,In Stock,30,1,2005-8-5
+150,Truck,Missing,24,0,2019-6-13
+151,M1A1,Non-functional,16,1,2008-11-25
+152,LAV-25,On Maintenance,28,0,2008-4-25
+153,M3A3 Bradley,Missing,2,0,2006-6-6
+154,Humvee,In Active Zone,3,0,2016-8-17
+155,M3A3 Bradley,On Maintenance,40,0,2006-3-21
+156,Humvee,Missing,31,0,2015-10-7
+157,Humvee,Non-functional,17,1,2011-1-26
+158,Truck,In Active Zone,31,1,2016-11-23
+159,M970,In Active Zone,32,1,2016-2-5
+160,LAV-25,Missing,20,1,2014-8-20
+161,Truck,In Active Zone,47,1,2011-2-20
+162,Humvee,In Active Zone,50,0,2005-4-18
+163,M970,In Active Zone,25,0,2018-10-9
+164,Humvee,In Stock,15,1,2005-4-6
+165,Truck,Non-functional,34,0,2011-4-1
+166,Truck,In Stock,4,1,2016-9-21
+167,M3A3 Bradley,Non-functional,43,1,2017-4-10
+168,M3A3 Bradley,On Maintenance,8,1,2016-7-11
+169,M113 APC,In Active Zone,23,1,2009-9-3
+170,Humvee,Missing,3,1,2016-5-12
+171,Truck,Non-functional,42,1,2018-6-4
+172,M4,In Stock,41,0,2015-4-9
+173,Truck,On Maintenance,2,1,2014-6-25
+174,M113 APC,Non-functional,49,0,2004-3-8
+175,M3A3 Bradley,On Maintenance,1,1,2017-12-12
+176,M1,In Active Zone,19,1,2004-12-16
+177,M970,Non-functional,38,1,2019-4-28
+178,M970,Missing,39,1,2014-10-24
+179,Truck,On Maintenance,3,0,2013-12-7
+180,M1A1,Missing,31,0,2011-9-18
+181,LAV-25,Missing,46,1,2014-4-20
+182,Truck,In Stock,48,1,2003-4-15
+183,LAV-25,In Stock,1,0,2003-4-5
+184,M970,In Active Zone,25,1,2015-1-7
+185,M4,Missing,40,0,2012-9-1
+186,M3A3 Bradley,Missing,11,0,2008-5-4
+187,M113 APC,Missing,32,0,2008-5-3
+188,Truck,In Stock,11,0,2009-8-2
+189,Truck,In Active Zone,25,0,2005-3-2
+190,M970,On Maintenance,48,0,2005-10-7
+191,LAV-25,In Stock,25,1,2010-6-8
+192,M113 APC,In Active Zone,45,0,2015-1-15
+193,Humvee,Non-functional,17,0,2013-8-8
+194,M113 APC,Missing,2,1,2011-8-13
+195,Truck,Missing,48,0,2016-7-22
+196,M113 APC,In Stock,50,0,2016-8-4
+197,M1,In Stock,41,1,2012-11-13
+198,M1,Missing,22,1,2003-2-13
+199,M1,In Stock,35,0,2011-10-21
+200,M113 APC,On Maintenance,9,1,2009-12-19
+201,M1,Non-functional,37,0,2019-1-12
+202,M1,On Maintenance,38,0,2005-6-13
+203,M1,In Active Zone,36,1,2014-4-20
+204,M970,Missing,29,1,2017-10-11
+205,M4,In Active Zone,23,1,2013-12-21
+206,M970,In Stock,31,1,2009-7-10
+207,LAV-25,Missing,32,1,2018-8-26
+208,M1,Non-functional,23,0,2015-3-12
+209,M4,Non-functional,32,0,2012-6-16
+210,Truck,On Maintenance,28,0,2011-8-3
+211,M1,In Stock,23,0,2015-8-11
+212,Truck,In Active Zone,35,1,2002-12-20
+213,M1,In Active Zone,39,1,2007-7-17
+214,M3A3 Bradley,On Maintenance,4,1,2000-7-4
+215,M970,Missing,38,1,2004-12-19
+216,M4,In Stock,49,0,2013-2-8
+217,Truck,In Active Zone,4,0,2000-2-24
+218,M3A3 Bradley,In Stock,2,0,2012-9-14
+219,M1,In Active Zone,38,1,2007-6-13
+220,M1A1,Missing,28,0,2002-7-14
+221,M970,Missing,36,0,2002-2-16
+222,M970,Missing,11,1,2006-6-4
+223,Truck,Missing,9,0,2013-8-7
+224,M970,In Active Zone,10,0,2006-9-1
+225,M4,Non-functional,3,0,2003-5-10
+226,Humvee,Missing,50,0,2014-4-5
+227,M3A3 Bradley,Missing,16,0,2016-10-24
+228,M1,Missing,40,0,2011-1-16
+229,Humvee,On Maintenance,29,1,2019-2-26
+230,Humvee,Non-functional,8,1,2010-3-22
+231,M113 APC,Missing,9,0,2018-2-10
+232,M1A1,In Active Zone,12,0,2001-12-11
+233,M4,Missing,20,0,2010-11-25
+234,M1A1,Non-functional,5,0,2014-3-3
+235,M1A1,In Stock,22,1,2015-2-21
+236,LAV-25,In Stock,6,0,2013-2-20
+237,M3A3 Bradley,Non-functional,43,0,2019-2-25
+238,Humvee,Missing,43,1,2007-12-26
+239,M113 APC,On Maintenance,10,1,2013-3-24
+240,M3A3 Bradley,Non-functional,16,0,2013-12-4
+241,LAV-25,In Stock,16,0,2009-11-21
+242,M1A1,In Stock,35,1,2007-7-25
+243,M113 APC,Missing,6,1,2003-1-19
+244,Truck,In Stock,14,0,2014-5-4
+245,Truck,In Stock,49,0,2004-10-15
+246,M4,On Maintenance,10,0,2010-9-1
+247,M970,Non-functional,27,0,2014-11-26
+248,Humvee,In Active Zone,15,0,2011-11-26
+249,Truck,In Stock,43,1,2012-2-24
+250,M970,In Active Zone,3,1,2004-8-23
+251,LAV-25,In Active Zone,1,1,2016-5-8
+252,M1,In Active Zone,42,0,2008-3-19
+253,M970,Missing,10,1,2017-8-25
+254,M1,On Maintenance,46,0,2018-7-20
+255,LAV-25,Non-functional,16,1,2016-10-10
+256,Truck,In Stock,15,0,2003-8-9
+257,M3A3 Bradley,Non-functional,8,0,2003-9-10
+258,M113 APC,In Stock,16,0,2015-11-15
+259,M970,On Maintenance,45,0,2007-6-8
+260,LAV-25,In Active Zone,21,1,2007-10-12
+261,M1,Non-functional,6,1,2018-5-24
+262,LAV-25,In Stock,29,1,2017-2-7
+263,M1,Missing,14,1,2002-9-21
+264,M3A3 Bradley,In Stock,15,1,2011-3-7
+265,Truck,On Maintenance,44,1,2001-8-18
+266,M1,Missing,22,1,2011-7-24
+267,LAV-25,In Stock,22,0,2009-1-25
+268,Truck,Non-functional,45,0,2010-1-27
+269,M3A3 Bradley,Missing,1,0,2008-4-19
+270,M1,Missing,2,0,2019-3-8
+271,Humvee,In Active Zone,18,0,2007-2-24
+272,LAV-25,Non-functional,33,1,2006-2-12
+273,M970,In Stock,35,1,2017-5-19
+274,M1,In Stock,31,0,2017-1-17
+275,M1A1,Non-functional,26,1,2018-12-16
+276,M1,On Maintenance,30,0,2000-9-23
+277,M1,In Stock,40,1,2013-10-13
+278,Truck,In Stock,10,1,2013-6-25
+279,M4,In Active Zone,44,0,2003-11-18
+280,LAV-25,In Stock,12,0,2017-7-11
+281,M1,In Stock,38,0,2003-10-25
+282,M113 APC,On Maintenance,23,0,2012-9-3
+283,Humvee,Non-functional,43,1,2013-10-11
+284,Humvee,Missing,34,1,2016-8-17
+285,Humvee,Non-functional,13,0,2019-7-11
+286,Truck,Non-functional,20,1,2015-1-19
+287,Humvee,On Maintenance,26,1,2002-1-1
+288,LAV-25,On Maintenance,44,1,2000-1-16
+289,M3A3 Bradley,Missing,30,1,2009-3-10
+290,M1,In Stock,38,1,2019-12-14
+291,Humvee,In Stock,31,0,2014-5-28
+292,M970,In Active Zone,23,1,2017-4-20
+293,M3A3 Bradley,Missing,48,1,2019-9-4
+294,LAV-25,In Stock,26,1,2001-11-2
+295,M3A3 Bradley,Non-functional,1,1,2007-2-3
+296,LAV-25,Non-functional,33,1,2003-7-3
+297,Truck,In Stock,49,0,2013-6-24
+298,M1,Non-functional,41,1,2010-3-11
+299,M1,In Stock,13,0,2014-5-17
+300,M3A3 Bradley,In Stock,6,0,2010-8-22
+301,M4,On Maintenance,21,0,2000-12-19
+302,M113 APC,In Active Zone,28,0,2016-3-17
+303,Humvee,Non-functional,28,1,2006-1-19
+304,M3A3 Bradley,In Stock,7,1,2005-9-12
+305,M1A1,Missing,5,0,2001-8-19
+306,M3A3 Bradley,In Stock,10,0,2014-5-17
+307,M4,Missing,18,1,2016-3-18
+308,Truck,On Maintenance,36,1,2000-10-18
+309,Truck,Missing,41,0,2010-8-9
+310,Humvee,In Active Zone,24,1,2006-2-5
+311,M1A1,In Stock,29,0,2006-10-18
+312,M970,In Stock,19,1,2014-5-13
+313,M1A1,In Active Zone,7,1,2014-2-23
+314,M970,In Active Zone,4,1,2009-12-23
+315,M1A1,Non-functional,22,1,2000-8-28
+316,M113 APC,In Stock,49,0,2019-10-20
+317,M113 APC,Non-functional,32,0,2010-8-9
+318,M113 APC,Missing,35,0,2001-12-6
+319,M1A1,In Active Zone,23,0,2007-6-19
+320,M1,On Maintenance,18,0,2008-3-14
+321,M1A1,In Active Zone,9,1,2019-1-17
+322,M113 APC,In Stock,21,0,2005-10-12
+323,M3A3 Bradley,In Stock,37,0,2000-2-10
+324,M970,In Active Zone,25,0,2011-7-22
+325,M113 APC,In Active Zone,40,1,2009-5-15
+326,LAV-25,In Stock,42,1,2005-10-19
+327,Truck,Non-functional,47,1,2016-6-6
+328,M4,In Stock,22,1,2018-9-28
+329,Truck,On Maintenance,15,0,2007-5-10
+330,M3A3 Bradley,Missing,5,1,2001-8-11
+331,LAV-25,In Active Zone,40,0,2008-3-13
+332,LAV-25,In Active Zone,2,0,2005-11-20
+333,M970,In Active Zone,7,1,2009-4-9
+334,M970,Missing,6,1,2004-8-11
+335,M1,In Stock,5,1,2016-3-20
+336,Truck,Missing,14,1,2004-9-18
+337,M1A1,On Maintenance,5,0,2016-12-19
+338,Humvee,Non-functional,41,1,2014-6-21
+339,M3A3 Bradley,On Maintenance,14,1,2000-5-3
+340,Humvee,In Active Zone,40,1,2016-1-4
+341,M113 APC,In Stock,28,1,2012-6-4
+342,M4,Non-functional,47,1,2012-6-1
+343,M4,Missing,2,0,2014-8-5
+344,M3A3 Bradley,Non-functional,50,0,2014-10-27
+345,M113 APC,In Stock,7,1,2008-12-24
+346,Humvee,In Stock,27,1,2011-12-18
+347,Truck,In Stock,43,1,2011-2-28
+348,M4,Non-functional,22,0,2006-5-14
+349,Truck,Missing,41,1,2008-6-19
+350,Truck,In Stock,41,0,2010-2-25
+351,LAV-25,In Stock,30,0,2017-12-2
+352,LAV-25,In Active Zone,1,0,2016-5-13
+353,M4,Missing,35,1,2001-3-9
+354,Humvee,In Stock,24,1,2012-1-16
+355,M3A3 Bradley,Missing,22,0,2013-2-28
+356,M4,In Stock,11,1,2017-6-9
+357,M113 APC,In Active Zone,34,0,2004-6-13
+358,M113 APC,On Maintenance,43,1,2003-2-3
+359,M3A3 Bradley,On Maintenance,25,0,2000-8-7
+360,M1A1,On Maintenance,8,1,2002-5-21
+361,Truck,In Active Zone,19,0,2006-12-15
+362,Humvee,In Stock,47,0,2003-7-6
+363,LAV-25,On Maintenance,35,0,2014-11-14
+364,M1A1,Non-functional,3,1,2009-8-27
+365,M1,Non-functional,25,0,2002-10-1
+366,Humvee,On Maintenance,21,1,2013-8-11
+367,Humvee,In Stock,42,0,2000-11-28
+368,LAV-25,Non-functional,21,1,2004-7-25
+369,M1,In Stock,19,1,2007-8-24
+370,Humvee,On Maintenance,34,0,2007-12-18
+371,M970,In Stock,39,0,2002-1-5
+372,M970,On Maintenance,18,1,2011-9-4
+373,M4,In Active Zone,44,1,2006-11-24
+374,Truck,In Active Zone,9,1,2001-10-6
+375,Humvee,On Maintenance,14,1,2000-1-11
+376,M113 APC,Non-functional,6,0,2014-6-10
+377,LAV-25,In Active Zone,11,1,2015-6-28
+378,M4,In Stock,39,0,2004-9-5
+379,M113 APC,In Active Zone,50,0,2016-10-14
+380,M1A1,In Stock,29,0,2012-8-28
+381,M970,In Stock,48,1,2001-4-26
+382,M1A1,In Active Zone,49,0,2004-1-27
+383,M3A3 Bradley,In Active Zone,26,0,2001-6-22
+384,M3A3 Bradley,In Active Zone,10,0,2008-1-26
+385,M970,Missing,30,1,2010-8-27
+386,Humvee,Missing,40,1,2007-2-16
+387,Humvee,Missing,44,0,2019-10-12
+388,M113 APC,On Maintenance,31,1,2003-8-21
+389,Humvee,Non-functional,30,0,2018-8-13
+390,M1A1,Non-functional,29,1,2015-4-4
+391,Truck,Non-functional,36,1,2019-10-17
+392,M113 APC,Non-functional,49,0,2003-1-16
+393,M3A3 Bradley,In Stock,29,0,2017-1-6
+394,M1,In Stock,10,1,2003-10-12
+395,M970,In Active Zone,33,0,2018-2-4
+396,M1A1,In Stock,35,1,2012-12-15
+397,M1A1,Missing,20,0,2008-12-20
+398,LAV-25,In Active Zone,21,1,2001-12-6
+399,M970,Missing,33,0,2010-12-12
+400,M1A1,Non-functional,45,1,2012-3-6
+401,M4,Non-functional,17,1,2002-11-20
+402,M3A3 Bradley,On Maintenance,48,0,2009-4-14
+403,LAV-25,Missing,5,0,2009-3-11
+404,M970,In Stock,46,0,2006-2-23
+405,LAV-25,Missing,14,1,2014-6-23
+406,M3A3 Bradley,In Active Zone,30,0,2014-8-28
+407,M970,In Stock,22,0,2017-4-12
+408,M1,In Stock,49,0,2019-3-12
+409,M3A3 Bradley,On Maintenance,40,1,2014-9-20
+410,Humvee,In Active Zone,29,1,2000-8-12
+411,M970,On Maintenance,32,0,2009-2-10
+412,M4,Missing,34,0,2013-2-20
+413,M970,In Active Zone,15,1,2015-2-18
+414,M1A1,In Stock,32,1,2009-12-2
+415,Truck,Non-functional,14,1,2014-5-10
+416,M970,In Active Zone,21,1,2017-7-22
+417,M113 APC,On Maintenance,2,1,2018-5-2
+418,M970,In Active Zone,39,1,2012-8-24
+419,M1,In Active Zone,35,0,2011-3-19
+420,M113 APC,Non-functional,27,0,2018-4-6
+421,Truck,In Stock,44,1,2014-5-23
+422,Truck,On Maintenance,4,1,2004-4-26
+423,M1A1,On Maintenance,27,0,2010-11-19
+424,M4,Missing,37,0,2013-8-10
+425,M4,In Active Zone,47,0,2008-10-24
+426,M970,Missing,15,1,2006-7-12
+427,M4,On Maintenance,20,0,2002-9-1
+428,Truck,Missing,33,1,2013-1-12
+429,LAV-25,On Maintenance,1,1,2000-7-23
+430,Truck,In Stock,42,1,2012-4-7
+431,M4,Missing,43,0,2006-5-18
+432,Humvee,Missing,40,0,2009-8-19
+433,LAV-25,Missing,12,0,2017-3-17
+434,M1A1,In Stock,24,0,2017-10-28
+435,M4,Non-functional,11,0,2009-5-12
+436,M113 APC,Non-functional,10,0,2015-11-16
+437,M1A1,On Maintenance,2,1,2005-5-11
+438,M1A1,Non-functional,3,1,2007-9-14
+439,M1,Missing,2,0,2016-11-5
+440,LAV-25,On Maintenance,48,0,2003-1-28
+441,M970,Non-functional,43,0,2000-11-16
+442,M3A3 Bradley,In Active Zone,20,0,2017-12-21
+443,M1A1,On Maintenance,35,1,2006-7-18
+444,M1,In Stock,11,1,2019-7-21
+445,M1A1,In Active Zone,16,0,2009-6-10
+446,M3A3 Bradley,Non-functional,42,1,2004-8-13
+447,Humvee,Non-functional,31,1,2000-3-13
+448,M3A3 Bradley,On Maintenance,16,0,2012-4-5
+449,M1A1,Non-functional,3,0,2005-9-17
+450,Humvee,In Stock,48,1,2010-9-21
+451,LAV-25,In Stock,13,1,2011-9-17
+452,M1,In Stock,20,0,2015-12-8
+453,M970,Missing,46,0,2008-10-16
+454,M970,Missing,17,0,2017-8-18
+455,M1,Non-functional,37,0,2013-8-24
+456,Humvee,On Maintenance,10,0,2014-12-8
+457,Truck,Missing,18,0,2014-7-18
+458,M113 APC,Missing,48,1,2016-8-6
+459,M1A1,Non-functional,31,1,2009-6-25
+460,M4,Missing,43,1,2017-1-8
+461,Humvee,Non-functional,27,0,2006-3-16
+462,LAV-25,In Stock,39,1,2004-11-21
+463,M113 APC,Non-functional,13,0,2014-7-17
+464,M4,In Stock,42,0,2000-2-4
+465,Truck,Missing,11,1,2010-12-21
+466,M3A3 Bradley,Non-functional,37,1,2011-8-18
+467,M4,Non-functional,38,1,2005-1-15
+468,M970,In Active Zone,15,0,2014-5-18
+469,LAV-25,In Active Zone,28,0,2010-4-24
+470,M113 APC,In Active Zone,35,1,2003-10-14
+471,M1A1,Missing,28,1,2002-9-1
+472,Truck,In Active Zone,14,0,2004-3-7
+473,M1,Missing,44,0,2017-10-17
+474,M1A1,Missing,33,0,2000-7-28
+475,Truck,In Stock,13,1,2015-4-4
+476,M1,On Maintenance,43,0,2002-3-15
+477,M970,In Active Zone,41,1,2011-12-22
+478,LAV-25,Missing,32,1,2016-6-4
+479,M3A3 Bradley,In Stock,43,1,2015-8-1
+480,Truck,Missing,40,1,2014-4-4
+481,M1A1,Missing,34,0,2004-4-19
+482,Truck,In Active Zone,6,1,2001-5-15
+483,M970,In Stock,45,1,2014-5-12
+484,M113 APC,On Maintenance,4,1,2017-6-7
+485,M1,On Maintenance,45,0,2002-2-16
+486,Truck,Missing,33,1,2019-10-8
+487,M4,On Maintenance,21,1,2014-8-8
+488,M970,On Maintenance,36,0,2013-7-3
+489,M1,Non-functional,47,0,2003-12-7
+490,M1A1,Non-functional,5,1,2009-9-23
+491,Truck,In Active Zone,38,1,2006-6-7
+492,M3A3 Bradley,Missing,23,1,2002-4-24
+493,M1,In Active Zone,22,1,2012-5-21
+494,M4,Non-functional,47,0,2012-3-1
+495,LAV-25,Missing,39,1,2014-1-5
+496,Humvee,On Maintenance,14,0,2009-2-8
+497,Humvee,Missing,28,1,2015-11-7
+498,M970,In Active Zone,21,0,2011-1-28
+499,M1A1,In Active Zone,26,1,2009-2-4
+500,Truck,In Active Zone,3,1,2003-2-28
+501,M113 APC,In Stock,9,0,2010-7-2
+502,M1,Non-functional,17,1,2008-1-25
+503,M970,In Active Zone,31,0,2009-10-2
+504,Humvee,In Stock,32,0,2016-1-18
+505,Humvee,Missing,39,1,2011-12-10
+506,M1,Missing,40,1,2011-9-26
+507,M113 APC,Non-functional,13,1,2016-12-6
+508,Truck,In Active Zone,13,0,2013-7-27
+509,M3A3 Bradley,On Maintenance,12,0,2013-5-26
+510,M3A3 Bradley,Non-functional,20,0,2008-8-27
+511,M3A3 Bradley,Non-functional,7,1,2005-5-23
+512,M970,In Active Zone,4,1,2005-10-1
+513,M3A3 Bradley,On Maintenance,31,0,2019-6-3
+514,M3A3 Bradley,On Maintenance,48,0,2011-9-16
+515,LAV-25,Missing,27,1,2010-9-17
+516,M4,In Active Zone,21,0,2002-4-18
+517,Truck,Non-functional,26,1,2003-6-23
+518,M970,In Stock,19,0,2001-8-17
+519,M1,On Maintenance,42,0,2005-10-11
+520,Humvee,On Maintenance,43,0,2004-2-10
+521,LAV-25,Non-functional,6,0,2013-10-11
+522,M4,In Stock,17,1,2001-9-11
+523,Truck,Missing,39,0,2008-3-9
+524,M1,In Active Zone,23,1,2016-10-12
+525,M3A3 Bradley,In Stock,43,1,2009-9-20
+526,Truck,Non-functional,28,1,2019-1-10
+527,M3A3 Bradley,In Active Zone,12,1,2008-1-23
+528,M1A1,In Active Zone,50,1,2019-7-15
+529,Truck,In Stock,4,1,2006-4-25
+530,M3A3 Bradley,On Maintenance,5,1,2007-8-13
+531,Truck,Missing,34,0,2014-11-23
+532,M970,In Stock,33,1,2010-10-16
+533,Humvee,Non-functional,12,1,2001-2-5
+534,LAV-25,In Active Zone,9,0,2006-2-20
+535,M1A1,On Maintenance,37,0,2005-5-14
+536,LAV-25,Missing,26,1,2015-5-23
+537,M970,Missing,44,1,2012-11-16
+538,M1,In Active Zone,50,1,2009-9-6
+539,M1A1,Missing,10,1,2003-7-3
+540,Truck,On Maintenance,49,1,2017-12-18
+541,M1,Missing,34,0,2006-5-10
+542,M113 APC,In Stock,46,1,2000-11-14
+543,M4,Missing,39,0,2000-11-2
+544,M113 APC,In Stock,5,0,2012-2-11
+545,M4,In Active Zone,48,0,2005-1-2
+546,M3A3 Bradley,In Stock,45,0,2012-5-19
+547,M4,Non-functional,13,1,2000-7-4
+548,M1,Non-functional,8,1,2017-5-14
+549,Truck,On Maintenance,15,0,2001-4-24
+550,M970,In Stock,14,0,2002-1-12
+551,Truck,Missing,45,1,2001-1-9
+552,M3A3 Bradley,Non-functional,32,0,2012-2-25
+553,LAV-25,In Stock,30,1,2001-9-25
+554,M1A1,Non-functional,32,1,2004-3-9
+555,M1,Missing,36,0,2011-2-9
+556,M4,In Active Zone,47,1,2002-4-25
+557,Humvee,On Maintenance,35,0,2015-8-26
+558,M970,Missing,4,1,2013-3-15
+559,M1A1,Non-functional,47,1,2015-3-23
+560,M970,In Stock,33,0,2005-5-1
+561,M970,Missing,38,1,2000-8-10
+562,M113 APC,Missing,4,0,2012-2-1
+563,M970,In Stock,27,0,2007-11-20
+564,M113 APC,In Stock,35,1,2011-5-10
+565,Humvee,In Active Zone,37,1,2011-8-2
+566,M1A1,Missing,37,0,2005-9-25
+567,M1A1,Missing,5,0,2014-5-1
+568,Truck,In Active Zone,48,0,2012-5-7
+569,M1A1,Non-functional,9,0,2005-8-8
+570,M1A1,On Maintenance,48,0,2002-2-27
+571,M1A1,Non-functional,32,0,2008-1-17
+572,Truck,In Active Zone,34,1,2017-4-17
+573,Humvee,In Stock,21,1,2010-10-20
+574,Humvee,Non-functional,14,1,2008-2-7
+575,Humvee,Missing,21,0,2010-3-2
+576,M1,In Active Zone,9,0,2010-11-2
+577,M1A1,In Stock,42,0,2004-1-7
+578,Humvee,Missing,26,1,2010-12-2
+579,M113 APC,Non-functional,2,1,2000-10-19
+580,Humvee,Missing,37,1,2002-1-28
+581,M3A3 Bradley,On Maintenance,9,0,2000-8-20
+582,Humvee,On Maintenance,43,1,2016-9-15
+583,M1A1,On Maintenance,36,1,2007-7-17
+584,M1,Missing,13,1,2016-4-23
+585,M3A3 Bradley,In Stock,7,0,2000-12-19
+586,M3A3 Bradley,In Active Zone,2,0,2008-9-4
+587,M3A3 Bradley,In Active Zone,3,0,2012-7-19
+588,M1,Non-functional,25,1,2003-1-13
+589,M4,In Stock,34,1,2010-7-3
+590,Humvee,On Maintenance,36,0,2006-7-20
+591,M113 APC,Non-functional,19,0,2005-4-20
+592,M1,In Stock,1,1,2014-9-25
+593,M4,In Active Zone,13,0,2014-5-4
+594,M970,In Stock,14,0,2013-4-13
+595,Humvee,In Active Zone,13,1,2001-6-8
+596,Humvee,Non-functional,30,1,2016-1-15
+597,LAV-25,On Maintenance,35,1,2012-12-23
+598,M1,In Active Zone,35,1,2010-11-13
+599,M4,Non-functional,29,1,2014-10-4
+600,M3A3 Bradley,On Maintenance,48,1,2019-7-1
+601,M1A1,In Stock,38,1,2007-7-6
+602,M4,Missing,30,0,2007-3-4
+603,M113 APC,In Stock,49,1,2008-1-25
+604,M970,On Maintenance,10,0,2018-4-16
+605,M1,In Stock,40,1,2006-4-11
+606,Humvee,On Maintenance,11,0,2004-10-15
+607,Humvee,Missing,15,0,2009-12-23
+608,M3A3 Bradley,On Maintenance,12,1,2004-12-13
+609,M1A1,On Maintenance,2,1,2001-12-22
+610,M4,On Maintenance,50,1,2009-6-9
+611,M4,On Maintenance,22,1,2000-5-17
+612,LAV-25,In Active Zone,41,1,2009-10-19
+613,M1,Missing,4,1,2013-3-16
+614,M1A1,Non-functional,10,1,2012-4-23
+615,Truck,On Maintenance,29,0,2005-10-13
+616,M113 APC,In Stock,8,1,2004-12-7
+617,M1,Non-functional,16,0,2018-5-3
+618,Humvee,In Stock,39,0,2007-10-25
+619,M1,On Maintenance,40,0,2006-8-18
+620,M4,On Maintenance,42,0,2017-11-10
+621,Truck,In Active Zone,40,0,2004-12-2
+622,M4,On Maintenance,4,1,2016-7-12
+623,Humvee,Non-functional,11,0,2010-12-20
+624,M1,Non-functional,21,0,2007-1-27
+625,LAV-25,Missing,32,1,2017-12-13
+626,M113 APC,Missing,38,1,2015-9-21
+627,M113 APC,Missing,14,0,2013-9-16
+628,Humvee,In Active Zone,2,0,2000-11-10
+629,M1,On Maintenance,39,1,2000-9-26
+630,M970,In Stock,29,1,2007-3-16
+631,M970,On Maintenance,25,0,2004-9-16
+632,M4,In Stock,21,0,2019-10-27
+633,Humvee,In Stock,39,0,2011-2-17
+634,M3A3 Bradley,On Maintenance,25,1,2004-1-2
+635,M113 APC,Missing,29,1,2002-2-21
+636,M113 APC,On Maintenance,38,0,2012-4-2
+637,M1,Non-functional,7,1,2017-3-9
+638,M970,In Stock,10,1,2014-7-6
+639,M1,In Active Zone,22,0,2011-9-2
+640,M113 APC,On Maintenance,19,1,2000-12-8
+641,M970,In Active Zone,34,0,2016-7-10
+642,M3A3 Bradley,On Maintenance,1,0,2017-9-22
+643,M970,Missing,44,1,2018-11-2
+644,M1A1,Missing,45,1,2008-10-7
+645,M4,Missing,35,0,2003-4-5
+646,M1A1,Non-functional,31,0,2019-8-4
+647,M113 APC,Non-functional,38,0,2004-1-18
+648,Humvee,In Stock,32,1,2006-5-2
+649,LAV-25,Non-functional,32,0,2005-3-7
+650,LAV-25,Non-functional,42,1,2004-7-17
+651,M1A1,Non-functional,2,1,2007-9-21
+652,M970,Missing,5,1,2015-10-17
+653,Humvee,On Maintenance,8,1,2005-7-28
+654,Truck,Missing,6,1,2010-9-26
+655,M113 APC,Missing,22,0,2014-3-21
+656,M4,On Maintenance,31,0,2005-11-17
+657,M113 APC,On Maintenance,44,1,2006-11-25
+658,Truck,Missing,39,1,2011-7-18
+659,M1A1,Non-functional,50,1,2013-2-10
+660,Humvee,Non-functional,12,0,2019-5-15
+661,M3A3 Bradley,Non-functional,43,0,2003-12-28
+662,LAV-25,In Stock,43,0,2019-7-11
+663,LAV-25,On Maintenance,12,0,2000-11-4
+664,M3A3 Bradley,In Active Zone,16,0,2012-7-19
+665,Truck,On Maintenance,38,0,2000-8-17
+666,Truck,Non-functional,44,0,2003-6-21
+667,M1A1,Missing,7,0,2011-1-17
+668,M113 APC,Non-functional,10,0,2003-10-17
+669,M3A3 Bradley,In Stock,27,1,2010-11-4
+670,LAV-25,Missing,25,1,2012-12-11
+671,M1A1,In Stock,17,1,2010-2-26
+672,M1,On Maintenance,49,0,2013-6-15
+673,M113 APC,In Active Zone,26,1,2008-12-8
+674,M113 APC,On Maintenance,31,0,2008-5-15
+675,M1,On Maintenance,11,1,2009-8-28
+676,Humvee,In Active Zone,10,1,2003-4-14
+677,M1A1,Non-functional,27,0,2018-4-5
+678,M4,Missing,38,0,2019-4-1
+679,M113 APC,Missing,25,1,2000-12-10
+680,M1,In Stock,11,1,2016-7-13
+681,Truck,In Stock,46,1,2013-4-25
+682,M113 APC,In Active Zone,25,1,2006-8-9
+683,M970,Missing,12,1,2014-7-14
+684,LAV-25,In Active Zone,29,1,2018-5-27
+685,M4,In Stock,33,1,2008-2-27
+686,M113 APC,In Active Zone,5,0,2019-5-18
+687,Humvee,In Stock,1,1,2019-11-17
+688,M1A1,On Maintenance,2,1,2011-10-17
+689,Humvee,Non-functional,40,0,2011-9-27
+690,M113 APC,Non-functional,33,0,2011-12-7
+691,M113 APC,Non-functional,43,1,2010-11-18
+692,M1A1,In Active Zone,25,0,2015-2-23
+693,M970,Non-functional,30,0,2016-1-12
+694,M1A1,On Maintenance,22,1,2009-10-25
+695,M113 APC,Missing,8,1,2014-12-11
+696,M113 APC,In Stock,25,0,2015-5-5
+697,M3A3 Bradley,In Stock,39,1,2011-6-10
+698,M3A3 Bradley,In Stock,2,0,2018-6-7
+699,M1,Non-functional,12,1,2014-6-6
+700,M1,In Active Zone,19,1,2019-10-21
+701,M970,On Maintenance,16,0,2014-3-23
+702,Truck,Non-functional,10,0,2013-1-12
+703,M1A1,Non-functional,3,1,2006-4-13
+704,M970,Non-functional,29,0,2019-5-16
+705,M113 APC,Non-functional,12,1,2011-1-9
+706,Humvee,Missing,4,1,2012-11-17
+707,Humvee,Missing,37,0,2012-5-8
+708,Humvee,Non-functional,43,1,2007-3-25
+709,M113 APC,Non-functional,22,1,2004-9-10
+710,Humvee,In Stock,47,0,2001-10-2
+711,M970,Non-functional,16,0,2004-4-26
+712,M4,Missing,6,1,2012-2-5
+713,M4,Missing,36,1,2005-8-27
+714,M4,In Active Zone,24,1,2005-3-8
+715,Truck,On Maintenance,12,0,2013-3-22
+716,LAV-25,In Active Zone,7,1,2019-4-4
+717,M1,In Stock,37,1,2018-10-16
+718,M3A3 Bradley,On Maintenance,50,1,2011-7-15
+719,Humvee,Missing,12,0,2002-10-11
+720,LAV-25,Non-functional,40,1,2013-2-1
+721,M4,On Maintenance,50,1,2016-11-27
+722,LAV-25,In Active Zone,26,0,2014-5-18
+723,M113 APC,In Stock,4,0,2011-7-23
+724,M1A1,Non-functional,50,0,2012-2-4
+725,M1,On Maintenance,1,0,2001-6-27
+726,M3A3 Bradley,In Stock,43,1,2005-10-10
+727,M1,In Stock,35,1,2010-4-23
+728,M3A3 Bradley,Missing,48,0,2016-11-8
+729,LAV-25,Missing,30,0,2004-6-27
+730,M1,In Active Zone,4,0,2000-3-18
+731,M4,In Active Zone,3,0,2018-10-6
+732,LAV-25,Missing,26,0,2001-1-16
+733,M1,Non-functional,34,1,2001-7-18
+734,M970,In Stock,24,0,2019-4-22
+735,M1A1,In Active Zone,42,0,2017-11-14
+736,M113 APC,On Maintenance,37,1,2018-5-8
+737,Truck,In Active Zone,18,0,2006-9-10
+738,LAV-25,In Active Zone,12,0,2014-3-8
+739,M3A3 Bradley,Missing,6,0,2015-1-7
+740,M3A3 Bradley,On Maintenance,21,1,2009-8-13
+741,LAV-25,In Stock,10,1,2014-7-2
+742,Humvee,On Maintenance,18,0,2007-9-8
+743,LAV-25,Missing,4,1,2007-2-24
+744,Truck,Non-functional,50,0,2019-4-10
+745,M113 APC,In Stock,5,0,2002-1-18
+746,Truck,On Maintenance,12,0,2018-3-4
+747,M1,Missing,33,1,2013-7-13
+748,M4,In Active Zone,35,1,2016-12-7
+749,M113 APC,Missing,29,1,2016-1-27
+750,LAV-25,In Stock,9,1,2011-8-20
+751,Humvee,Non-functional,40,1,2019-6-15
+752,M1A1,In Active Zone,9,1,2013-12-24
+753,M113 APC,In Stock,40,1,2001-12-8
+754,M113 APC,In Active Zone,14,0,2002-8-19
+755,M970,On Maintenance,43,0,2008-8-12
+756,M970,Missing,47,1,2010-3-4
+757,M4,In Stock,15,1,2018-5-25
+758,Truck,In Stock,43,0,2007-7-28
+759,M4,In Stock,13,1,2000-6-25
+760,LAV-25,In Active Zone,49,0,2011-10-18
+761,M113 APC,Non-functional,15,1,2008-4-13
+762,LAV-25,Missing,3,0,2006-10-22
+763,M1A1,In Active Zone,46,0,2006-10-11
+764,M1,In Active Zone,30,0,2017-5-20
+765,Humvee,On Maintenance,24,1,2009-10-4
+766,M1,On Maintenance,35,0,2008-2-28
+767,Truck,Missing,25,0,2012-8-24
+768,M4,In Stock,36,0,2013-8-6
+769,LAV-25,Non-functional,41,1,2000-9-17
+770,M970,In Active Zone,17,1,2003-12-8
+771,M1A1,In Stock,24,0,2007-3-28
+772,M1A1,In Active Zone,45,1,2007-5-4
+773,Humvee,Missing,6,0,2004-7-10
+774,M1A1,Non-functional,34,1,2005-12-7
+775,M970,In Stock,48,1,2003-11-4
+776,M113 APC,Non-functional,32,1,2001-12-20
+777,M113 APC,Non-functional,13,0,2005-7-6
+778,M1A1,Missing,49,0,2004-1-7
+779,M3A3 Bradley,On Maintenance,29,0,2003-3-20
+780,M1A1,In Stock,19,1,2013-1-25
+781,Truck,In Active Zone,39,0,2015-5-10
+782,M1A1,Missing,40,0,2018-4-10
+783,LAV-25,Missing,37,0,2000-2-10
+784,M3A3 Bradley,In Stock,37,1,2019-3-6
+785,LAV-25,In Stock,40,1,2004-9-1
+786,LAV-25,In Active Zone,29,1,2002-6-1
+787,M1,Missing,34,0,2017-11-24
+788,Humvee,On Maintenance,33,1,2006-6-27
+789,M3A3 Bradley,On Maintenance,34,0,2015-6-8
+790,M4,On Maintenance,27,0,2008-3-6
+791,LAV-25,Non-functional,1,0,2013-5-9
+792,M4,On Maintenance,1,0,2002-3-17
+793,LAV-25,Non-functional,37,1,2006-9-2
+794,M4,In Active Zone,35,0,2019-12-15
+795,M970,In Stock,44,0,2006-6-26
+796,Truck,Missing,30,1,2019-10-18
+797,M4,Non-functional,45,0,2016-7-5
+798,Humvee,Non-functional,30,0,2001-6-7
+799,M1A1,Non-functional,12,0,2003-8-25
+800,Humvee,Non-functional,33,0,2011-1-2
+801,Humvee,Non-functional,39,0,2010-9-2
+802,M1A1,Non-functional,12,0,2008-6-8
+803,Humvee,On Maintenance,2,1,2004-6-14
+804,M4,On Maintenance,23,0,2016-11-17
+805,M4,Non-functional,39,0,2015-7-26
+806,M1A1,On Maintenance,39,1,2003-5-2
+807,M113 APC,In Active Zone,42,1,2017-11-19
+808,M1,In Stock,29,0,2019-5-12
+809,M113 APC,In Stock,43,0,2016-3-16
+810,Truck,Non-functional,5,1,2009-10-24
+811,M3A3 Bradley,On Maintenance,10,0,2015-3-25
+812,M3A3 Bradley,On Maintenance,37,1,2003-10-17
+813,M1,On Maintenance,41,1,2019-2-14
+814,Truck,Missing,1,1,2001-6-1
+815,M1A1,In Stock,10,0,2013-5-15
+816,M970,On Maintenance,20,0,2015-9-16
+817,M1,Missing,1,1,2010-7-15
+818,M970,Missing,49,1,2009-11-11
+819,M1A1,In Stock,40,0,2017-7-19
+820,M970,In Stock,11,0,2005-4-21
+821,M4,Non-functional,2,0,2007-8-20
+822,Humvee,Missing,4,1,2017-8-16
+823,M113 APC,Non-functional,5,1,2014-4-4
+824,M1A1,In Stock,49,0,2010-11-8
+825,LAV-25,Non-functional,3,1,2009-3-8
+826,LAV-25,In Stock,32,1,2019-4-28
+827,Truck,Missing,42,1,2010-8-10
+828,M1A1,In Stock,8,0,2017-10-6
+829,M3A3 Bradley,In Active Zone,4,1,2016-12-25
+830,M113 APC,Missing,8,1,2005-1-19
+831,M3A3 Bradley,Non-functional,43,1,2004-5-15
+832,LAV-25,On Maintenance,41,1,2003-10-15
+833,M4,Non-functional,24,1,2015-9-3
+834,M4,Missing,50,0,2003-11-27
+835,M1,In Active Zone,28,0,2013-8-27
+836,M970,On Maintenance,43,0,2015-1-18
+837,Humvee,On Maintenance,2,1,2009-9-14
+838,M1A1,Non-functional,31,1,2010-8-21
+839,LAV-25,In Stock,18,1,2010-3-12
+840,M4,Missing,42,0,2013-2-17
+841,M113 APC,Non-functional,14,1,2003-3-9
+842,M3A3 Bradley,On Maintenance,50,0,2008-7-11
+843,M4,On Maintenance,16,1,2016-1-23
+844,M970,On Maintenance,17,1,2000-8-12
+845,M113 APC,In Active Zone,17,0,2018-10-26
+846,M113 APC,Non-functional,22,1,2002-12-5
+847,M1,On Maintenance,33,1,2005-4-13
+848,M1,In Active Zone,44,1,2005-8-12
+849,Humvee,In Stock,44,1,2007-8-8
+850,M970,In Active Zone,17,1,2009-7-1
+851,M1A1,Non-functional,34,0,2015-11-18
+852,M3A3 Bradley,Missing,21,1,2018-2-11
+853,M3A3 Bradley,In Stock,41,0,2013-2-28
+854,Humvee,In Active Zone,5,1,2000-6-17
+855,LAV-25,In Active Zone,23,0,2008-10-28
+856,M970,In Active Zone,12,1,2002-9-15
+857,M4,Missing,34,1,2000-6-2
+858,M1,On Maintenance,39,0,2017-8-6
+859,M1A1,Missing,31,0,2008-1-5
+860,M3A3 Bradley,Non-functional,46,0,2013-9-22
+861,M4,Non-functional,22,0,2012-2-12
+862,Humvee,In Stock,1,0,2002-12-23
+863,LAV-25,Non-functional,20,1,2013-10-10
+864,M1,In Stock,40,0,2015-5-8
+865,M1,On Maintenance,27,0,2018-4-11
+866,M113 APC,Non-functional,6,1,2006-12-21
+867,Humvee,In Stock,34,0,2014-9-23
+868,M1A1,In Stock,41,1,2009-7-4
+869,M1,On Maintenance,19,1,2010-10-2
+870,Truck,Missing,25,1,2002-3-1
+871,Truck,Non-functional,43,1,2017-2-26
+872,Humvee,On Maintenance,20,1,2004-7-24
+873,Truck,Missing,2,1,2015-12-21
+874,LAV-25,In Stock,8,1,2001-8-13
+875,Truck,In Stock,40,0,2013-3-11
+876,LAV-25,In Stock,27,1,2016-4-15
+877,LAV-25,On Maintenance,2,0,2016-8-24
+878,M113 APC,Missing,2,0,2002-11-19
+879,M3A3 Bradley,Non-functional,25,1,2005-8-24
+880,LAV-25,In Stock,10,1,2016-11-18
+881,M1A1,In Stock,30,0,2002-6-4
+882,M113 APC,Non-functional,4,0,2005-11-21
+883,M113 APC,In Stock,38,1,2009-5-4
+884,M113 APC,On Maintenance,13,1,2011-10-1
+885,Truck,In Stock,25,0,2004-7-14
+886,LAV-25,In Stock,29,1,2013-4-10
+887,LAV-25,In Active Zone,8,0,2006-9-3
+888,M1,Missing,16,1,2012-6-1
+889,M113 APC,On Maintenance,45,0,2009-1-28
+890,M3A3 Bradley,In Stock,49,0,2013-12-16
+891,M1A1,In Stock,38,1,2002-2-6
+892,M4,Non-functional,48,0,2011-12-17
+893,M1,On Maintenance,10,1,2005-3-5
+894,M1A1,Non-functional,33,1,2014-11-8
+895,M3A3 Bradley,Non-functional,42,0,2001-12-2
+896,Truck,On Maintenance,41,1,2016-5-24
+897,M970,In Stock,39,0,2004-1-26
+898,M4,On Maintenance,46,0,2000-11-28
+899,M970,On Maintenance,32,0,2017-10-24
+900,LAV-25,On Maintenance,14,0,2014-3-4
+901,M1A1,In Stock,43,1,2006-8-12
+902,M1,In Stock,15,0,2008-7-22
+903,M4,Missing,15,1,2007-2-5
+904,M3A3 Bradley,Non-functional,19,0,2013-5-15
+905,M970,In Stock,8,0,2016-9-13
+906,M4,Non-functional,3,1,2012-12-1
+907,M970,In Stock,19,0,2018-2-28
+908,M970,Missing,37,1,2014-6-9
+909,M113 APC,In Active Zone,32,0,2017-8-4
+910,Humvee,Missing,18,1,2009-11-7
+911,LAV-25,In Stock,12,0,2000-3-20
+912,LAV-25,Missing,14,0,2014-9-14
+913,Humvee,In Stock,18,0,2012-10-6
+914,Humvee,On Maintenance,43,1,2006-6-14
+915,Humvee,Missing,17,0,2018-3-24
+916,M1,In Stock,30,1,2009-2-21
+917,M4,Non-functional,9,1,2012-5-18
+918,LAV-25,In Active Zone,31,1,2016-2-22
+919,M970,On Maintenance,6,1,2003-6-25
+920,LAV-25,Missing,17,1,2013-11-4
+921,LAV-25,Missing,27,0,2015-6-26
+922,LAV-25,In Stock,32,1,2008-7-14
+923,M113 APC,Missing,1,1,2004-7-18
+924,M1,In Active Zone,14,1,2005-3-21
+925,M113 APC,Non-functional,39,0,2001-8-18
+926,LAV-25,In Active Zone,38,1,2009-5-8
+927,M3A3 Bradley,Non-functional,50,0,2013-11-18
+928,M970,Non-functional,20,1,2001-2-20
+929,LAV-25,Missing,37,0,2015-9-26
+930,Truck,On Maintenance,14,0,2012-10-14
+931,Truck,In Active Zone,48,0,2002-11-12
+932,LAV-25,Non-functional,8,1,2011-4-15
+933,Truck,In Active Zone,47,0,2003-12-25
+934,LAV-25,Non-functional,7,1,2014-11-27
+935,LAV-25,In Active Zone,36,0,2019-8-9
+936,M1,Non-functional,47,0,2012-1-22
+937,M970,In Active Zone,18,0,2008-9-21
+938,M1A1,Non-functional,7,0,2011-2-2
+939,LAV-25,On Maintenance,12,1,2000-2-18
+940,Humvee,Non-functional,16,1,2013-4-21
+941,Truck,In Active Zone,28,1,2008-10-4
+942,M970,On Maintenance,14,0,2002-1-1
+943,LAV-25,On Maintenance,21,1,2003-1-18
+944,M1,Non-functional,29,0,2010-1-5
+945,M3A3 Bradley,On Maintenance,31,0,2005-3-14
+946,M970,Missing,7,1,2011-1-16
+947,Humvee,Missing,20,1,2008-6-20
+948,M970,Missing,24,1,2009-2-27
+949,M970,In Active Zone,20,0,2019-1-5
+950,M3A3 Bradley,In Stock,6,1,2017-2-15
+951,Humvee,Non-functional,39,0,2002-4-28
+952,M113 APC,Non-functional,48,0,2018-2-15
+953,LAV-25,Non-functional,29,0,2019-4-11
+954,M1,On Maintenance,1,1,2000-6-11
+955,M1,Missing,19,1,2012-11-3
+956,Truck,In Active Zone,40,0,2014-11-10
+957,M3A3 Bradley,In Active Zone,3,0,2008-12-2
+958,Humvee,Missing,13,0,2012-3-3
+959,M1A1,On Maintenance,34,1,2008-4-15
+960,M1A1,Missing,35,1,2007-1-8
+961,M113 APC,In Active Zone,15,0,2013-7-4
+962,M1A1,In Active Zone,26,0,2015-5-21
+963,LAV-25,Missing,33,0,2012-1-15
+964,M113 APC,In Active Zone,25,0,2017-1-2
+965,M4,Non-functional,13,1,2012-3-27
+966,Humvee,In Stock,16,1,2005-9-22
+967,M1A1,Missing,27,1,2006-10-13
+968,M113 APC,Missing,10,1,2007-7-7
+969,M1,Non-functional,42,0,2001-11-23
+970,Humvee,On Maintenance,40,0,2009-1-25
+971,LAV-25,Missing,21,1,2003-3-24
+972,M3A3 Bradley,In Stock,21,1,2004-6-21
+973,Truck,In Stock,33,1,2012-4-12
+974,M970,In Active Zone,15,1,2014-10-6
+975,Humvee,In Active Zone,1,1,2016-3-16
+976,M113 APC,On Maintenance,9,0,2004-10-26
+977,M1,In Active Zone,3,0,2007-10-4
+978,M1A1,On Maintenance,7,0,2002-12-2
+979,M3A3 Bradley,In Stock,20,1,2018-11-5
+980,LAV-25,Non-functional,5,0,2004-11-11
+981,M1,In Active Zone,31,1,2002-7-4
+982,Truck,On Maintenance,35,0,2013-9-1
+983,M3A3 Bradley,In Stock,47,0,2006-4-4
+984,M113 APC,Missing,27,0,2007-12-20
+985,M3A3 Bradley,In Active Zone,50,0,2018-12-14
+986,LAV-25,In Stock,40,0,2004-2-12
+987,M113 APC,In Stock,31,0,2009-12-1
+988,Truck,In Active Zone,29,0,2014-9-19
+989,Truck,Non-functional,35,1,2018-8-18
+990,Truck,On Maintenance,8,1,2014-10-25
+991,M4,Non-functional,2,1,2000-3-10
+992,M3A3 Bradley,In Stock,8,1,2015-9-21
+993,M970,In Active Zone,5,0,2009-12-26
+994,M1,On Maintenance,39,1,2007-8-1
+995,LAV-25,Missing,36,0,2002-4-13
+996,Humvee,Non-functional,31,1,2011-6-26
+997,M970,On Maintenance,44,1,2018-9-6
+998,M1A1,On Maintenance,24,1,2012-4-27
+999,M4,Non-functional,41,0,2017-7-3
+1000,M4,Non-functional,19,1,2010-12-14
