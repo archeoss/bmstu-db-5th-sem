@@ -10,7 +10,7 @@ import (
 	"time"
 )
 
-const FIELDS = 1000
+const FIELDS = 10000
 
 func genDate() string {
 	return strconv.Itoa(rand.Intn(20)+2000) + "-" + strconv.Itoa(rand.Intn(12)+1) + "-" + strconv.Itoa(rand.Intn(28)+1)
@@ -65,6 +65,7 @@ func minDate(a, b string) string {
 
 func generateDB() {
 	soldiers_list := make([]string, FIELDS)
+	squads := genSlice(FIELDS / 10)
 	nums_Weapon := genSlice(FIELDS)
 	nums_Vehicle := genSlice(FIELDS)
 	nums_Ammo := genSlice(FIELDS)
@@ -73,6 +74,7 @@ func generateDB() {
 	rand.Shuffle(len(nums_Weapon), func(i, j int) { nums_Weapon[i], nums_Weapon[j] = nums_Weapon[j], nums_Weapon[i] })
 	rand.Shuffle(len(nums_Ammo), func(i, j int) { nums_Ammo[i], nums_Ammo[j] = nums_Ammo[j], nums_Ammo[i] })
 	rand.Shuffle(len(nums_Vehicle), func(i, j int) { nums_Vehicle[i], nums_Vehicle[j] = nums_Vehicle[j], nums_Vehicle[i] })
+	rand.Shuffle(len(squads), func(i, j int) { squads[i], squads[j] = squads[j], squads[i] })
 
 	soldiersFile, err := os.Open("assets/soldiers.csv")
 	if err != nil {
@@ -99,7 +101,7 @@ func generateDB() {
 		i_rank := rand.Intn(len(rank))
 		soldiers_list[i] = lastName[i_lastName]
 		date1, date2 := genDate(), genDate()
-		record := []string{strconv.Itoa(i + 1), firstName[i_firstName], lastName[i_lastName], rank[i_rank], strconv.Itoa(rand.Intn(25) + 20), strconv.Itoa(rand.Intn(1000) + 1000), minDate(date1, date2), maxDate(date1, date2), strconv.Itoa(nums_Weapon[i]), strconv.Itoa(nums_Ammo[i]), strconv.Itoa(nums_Vehicle[i])}
+		record := []string{ /*strconv.Itoa(i + 1), */ firstName[i_firstName], lastName[i_lastName], rank[i_rank], strconv.Itoa(rand.Intn(25) + 20), strconv.Itoa(rand.Intn(1000) + 1000), minDate(date1, date2), maxDate(date1, date2), strconv.Itoa(nums_Weapon[i]), strconv.Itoa(nums_Ammo[i]), strconv.Itoa(nums_Vehicle[i]), strconv.Itoa(squads[i%(FIELDS/10)])}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -135,7 +137,7 @@ func generateDB() {
 	for i := 0; i < FIELDS; i++ {
 		i_misc := rand.Intn(len(misc))
 		i_ammo := rand.Intn(len(ammo))
-		record := []string{strconv.Itoa(i + 1), ammo[i_ammo], calibers[i_ammo], types[i_ammo], strconv.Itoa(rand.Intn(5) * 30), misc[i_misc]}
+		record := []string{ /*strconv.Itoa(i + 1), */ ammo[i_ammo], calibers[i_ammo], types[i_ammo], strconv.Itoa(rand.Intn(5) * 30), misc[i_misc]}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -163,7 +165,7 @@ func generateDB() {
 		i_weapon := rand.Intn(len(name))
 		i_misc := rand.Intn(len(misc))
 		date1, date2 := genDate(), genDate()
-		record := []string{strconv.Itoa(i + 1), name[i_weapon], class[i_weapon], caliber[i_weapon], misc[i_misc], minDate(date1, date2), maxDate(date1, date2)}
+		record := []string{ /*strconv.Itoa(i + 1), */ name[i_weapon], class[i_weapon], caliber[i_weapon], misc[i_misc], minDate(date1, date2), maxDate(date1, date2)}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
@@ -189,8 +191,37 @@ func generateDB() {
 	for i := 0; i < FIELDS; i++ {
 		i_vehicles := rand.Intn(len(vehicles))
 		i_misc := rand.Intn(len(misc))
-		record := []string{strconv.Itoa(i + 1), vehicles[i_vehicles], misc[i_misc], strconv.Itoa(rand.Intn(50) + 1), strconv.Itoa(rand.Intn(2)), genDate()}
+		record := []string{ /*strconv.Itoa(i + 1), */ vehicles[i_vehicles], misc[i_misc], strconv.Itoa(rand.Intn(50) + 1), strconv.Itoa(rand.Intn(2)), genDate()}
 
+		csvWriter.Write(record)
+		csvWriter.Flush()
+	}
+
+	squadsFile, err := os.Open("assets/squads.csv")
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(1)
+	}
+
+	csvReader = csv.NewReader(squadsFile)
+	locations, err := csvReader.Read()
+	stats, err := csvReader.Read()
+	call_signs, err := csvReader.Read()
+	weaponsFile.Close()
+
+	f, err = os.Create("../queries/lab_01/dbdata/squads.csv")
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(1)
+	}
+	csvWriter = csv.NewWriter(f)
+	//csvWriter.Write([]string{""})
+	for i := 0; i < FIELDS/10; i++ {
+		i_loc := rand.Intn(len(locations))
+		i_stat := rand.Intn(len(stats))
+		i_call := rand.Intn(len(call_signs))
+		date1, date2 := genDate(), genDate()
+		record := []string{ /*strconv.Itoa(i + 1), */ locations[i_loc], minDate(date1, date2), maxDate(date1, date2), stats[i_stat], strconv.Itoa(rand.Intn(25)), call_signs[i_call]}
 		csvWriter.Write(record)
 		csvWriter.Flush()
 	}
