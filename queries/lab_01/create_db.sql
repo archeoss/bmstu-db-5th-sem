@@ -16,7 +16,8 @@ CREATE TABLE IF NOT EXISTS military_base.soldiers (
     departure_date DATE,
     weapon_id INT,
     ammunition_id INT,
-    vehicle_id INT
+    vehicle_id INT,
+    squad_id INT
 );
 
 CREATE TABLE IF NOT EXISTS military_base.weapons(
@@ -27,6 +28,16 @@ CREATE TABLE IF NOT EXISTS military_base.weapons(
     status VARCHAR(50),
     produced DATE,
     last_check DATE
+);
+
+CREATE TABLE IF NOT EXISTS military_base.squads(
+    id SERIAL,
+    cur_location VARCHAR(50),
+    first_deploy DATE,
+    last_deploy DATE,
+    status VARCHAR(50),
+    total_deploys INT,
+    call_sign VARCHAR(50)
 );
 
 CREATE TABLE IF NOT EXISTS military_base.ammunition(
