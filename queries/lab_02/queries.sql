@@ -81,8 +81,6 @@ CREATE TEMP TABLE temp_soldiers AS (
     SELECT first_name, last_name, age, rank FROM military_base.soldiers WHERE age > 40
 );
 
--- select * from temp_soldiers;
--- DROP TABLE temp_soldiers;
 --12. Инструкция SELECT, использующая вложенные коррелированные подзапросы
 -- в качестве производных таблиц в предложении FROM.
 --Вывести список вооружения капралов
@@ -140,17 +138,15 @@ WITH lst(amount, weapons) AS (
 )
 SELECT amount/weapons as ammo_per_weapon FROM lst;
 --23. Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
-CREATE TEMP TABLE temp_squads AS (
-    SELECT id, call_sign FROM military_base.squads WHERE call_sign = 'Bravo'
-);
-WITH RECURSIVE all_bravo(id, first_name, last_name, sq_id) AS (
-    SELECT id, first_name, last_name, squad_id, 0 AS level FROM military_base.soldiers
-    WHERE squad_id in (SELECT id FROM temp_squads)
+-- Выводит все отряды, где 2 <= кол-во высадок <= 5
+WITH RECURSIVE max_deploys(id, total_deploys, call_sign, level) AS (
+    SELECT sq.id, sq.total_deploys, sq.call_sign, 0 as level FROM military_base.squads as sq
+    where sq.total_deploys = 2
     UNION ALL
-    SELECT sq.id, sq.first_name, sq.last_name, sq.squad_id, level + 1 FROM military_base.soldiers sq
-                                                         JOIN all_bravo an ON sq.squad_id = an.sq_id
+    SELECT sqi.id, sqi.total_deploys, sqi.call_sign, level + 1 FROM military_base.squads sqi
+                                                                        INNER JOIN max_deploys md1 ON (sqi.total_deploys = md1.total_deploys + 1) and level < 3
 )
-SELECT id, first_name, last_name, sq_id FROM all_bravo;
+SELECT id, total_deploys, call_sign, level FROM max_deploys GROUP BY id, total_deploys, call_sign, level;
 --24. Оконные функции. Использование конструкций MIN/MAX/AVG OVER()
 
 SELECT name, type, AVG(quantity) OVER(PARTITION BY name) avg_quantity, COUNT(name) OVER(PARTITION BY name) AS entries_amount FROM military_base.ammunition;
