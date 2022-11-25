@@ -20,4 +20,9 @@ SELECT row_to_json(r) FROM military_base.ammunition r;
 \o ./dbdata/squads.json
 SELECT row_to_json(r) FROM military_base.squads r;
 \o
+
+\o ./dbdata/result.json
+SELECT row_to_json(r) FROM (SELECT name, count(*) as count, AVG(capacity) as avg FROM military_base.vehicles GROUP BY name) r;
+\o
+
 \t off

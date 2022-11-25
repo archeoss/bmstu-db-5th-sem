@@ -11,16 +11,24 @@ func PrintMenu() {
 	}
 }
 
-func GetCommand() string {
+func GetCommand(command int) string {
+	if command < 0 || command >= len(QUERY) {
+		return "RAISE NOTICE 'Incorrect command';"
+	}
+
+	return QUERY[command]
+}
+
+func GetCommandNumber() int {
 	var command int
 	fmt.Print("Введите команду: ")
 	fmt.Println()
 	_, err := fmt.Scan(&command)
 	if err != nil {
-		return "RAISE NOTICE 'Error happened';"
+		print("Error happened while scanning for command;")
 	}
 
-	return QUERY[command]
+	return command
 }
 
 func PrintRows(rows *sql.Rows) {

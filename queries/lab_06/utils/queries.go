@@ -13,6 +13,7 @@ var DESC = [...]string{
 	"9. Создать таблицу в базе данных, соответствующую тематике БД;",
 	"10. Выполнить вставку данных в созданную таблицу с использованием инструкции INSERT или COPY",
 	"11. TEST <10>",
+	"12. DROP TABLE <10>",
 }
 
 var QUERY = map[int]string{
@@ -30,4 +31,5 @@ var QUERY = map[int]string{
 	9:  "CREATE TABLE IF NOT EXISTS military_base.provisions (id SERIAL PRIMARY KEY, name VARCHAR(255) NOT NULL, amount INT NOT NULL);",
 	10: "INSERT INTO military_base.provisions (name, amount) VALUES ('bread', 100), ('water', 100), ('ammo', 100);",
 	11: "SELECT * FROM military_base.provisions;",
+	12: "DROP TABLE military_base.provisions;",
 }

@@ -28,15 +28,21 @@ func main() {
 	for {
 		utils.PrintMenu()
 
-		command := utils.GetCommand()
+		commandNum := utils.GetCommandNumber()
+		command := utils.GetCommand(commandNum)
 		if command == "EXIT" {
 			break
 		}
 		rows, err := db.Raw(command).Rows()
 		if err != nil {
-			panic(err)
+			fmt.Println(err)
+			if commandNum == 10 || commandNum == 11 || commandNum == 12 {
+				fmt.Println("Проверьте правильность ввода данных. Скорее всего, база не была создана.")
+			} else {
+				fmt.Println("Проверьте правильность ввода данных. Скорее всего не были созднаы нужные функции.")
+			}
+		} else {
+			utils.PrintRows(rows)
 		}
-
-		utils.PrintRows(rows)
 	}
 }

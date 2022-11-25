@@ -35,3 +35,7 @@ SELECT * FROM jsonb_array_elements('[
 {"name": "Ivan", "age": 30, "weapon": {"name": "AK-47", "quality": "Bad", "ammo": 30}}]'::jsonb);
 
 SELECT * FROM context;
+
+-- Защита
+
+SELECT row_to_json(r) FROM (SELECT name, count(*) as count, AVG(capacity) as avg FROM military_base.vehicles GROUP BY name) r;

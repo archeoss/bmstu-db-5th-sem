@@ -998,5 +998,4 @@
  {"id":998,"cur_location":"Aleppo","first_deploy":"2002-02-10","last_deploy":"2013-12-06","status":"Training","total_deploys":19,"call_sign":"Echo"}
  {"id":999,"cur_location":"Tegeran","first_deploy":"2012-01-19","last_deploy":"2013-10-23","status":"On Resupply","total_deploys":4,"call_sign":"Tango"}
  {"id":1000,"cur_location":"Libya","first_deploy":"2007-08-06","last_deploy":"2007-10-01","status":"Ready to Deploy","total_deploys":1,"call_sign":"Oscar"}
- {"id":9999,"cur_location":"Moscow","first_deploy":"2020-01-01","last_deploy":"2020-01-01","status":"active","total_deploys":1,"call_sign":"Alpha"}
 
