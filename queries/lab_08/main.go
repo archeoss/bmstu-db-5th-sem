@@ -92,7 +92,7 @@ func minDate(a, b string) string {
 }
 
 func GenRandomWeapons() []byte {
-	var marshal []byte
+	marshal := []byte("[")
 	var err error
 	weaponsFile, err := os.Open("weapons.csv")
 	misc := STATUS
@@ -111,7 +111,7 @@ func GenRandomWeapons() []byte {
 		i_misc := rand.Intn(len(misc))
 		date1, date2 := genDate(), genDate()
 		weapon := Weapons{
-			ID:             i,
+			//ID:             i,
 			Name:           name[i_weapon],
 			Classification: class[i_weapon],
 			Caliber:        caliber[i_weapon],
@@ -125,10 +125,13 @@ func GenRandomWeapons() []byte {
 			return []byte{}
 		}
 		marshal = append(marshal, m...)
-		marshal = append(marshal, []byte(",\n")...)
+		if i < FIELDS - 1 {
+			marshal = append(marshal, []byte(",\n")...)
+		}
 	}
+	marshal = append(marshal, []byte("]\n")...)
 
-	return marshal
+	return marshal 
 }
 
 func main() {
@@ -136,7 +139,7 @@ func main() {
 	table := "weapons"
 	for {
 		var t = time.Now()
-		file, err := os.Create(fmt.Sprintf("%d_%s_%s.json", file_id, table, t))
+		file, err := os.Create(fmt.Sprintf("/opt/nifi/tmp/%d_%s_%s.json", file_id, table, t))
 		if err != nil {
 			return
 		}
